@@ -1,0 +1,6057 @@
+1
+00:01:05,231 --> 00:01:08,735
+Once upon a time,
+there was a peaceful kingdom
+
+2
+00:01:08,777 --> 00:01:12,197
+ruled by a virtuous
+queen and king.
+
+3
+00:01:12,238 --> 00:01:15,158
+More than anything,
+they wished for a child.
+
+4
+00:01:16,910 --> 00:01:20,663
+One winter's night,
+a blizzard swept through their
+land,
+
+5
+00:01:20,705 --> 00:01:24,876
+blotting out the kingdom
+in a bitter storm of snow and
+ice,
+
+6
+00:01:25,752 --> 00:01:28,505
+but leaving them a
+most precious gift.
+
+7
+00:01:29,005 --> 00:01:31,049
+A princess was born.
+
+8
+00:01:31,800 --> 00:01:33,551
+To honor the night she arrived,
+
+9
+00:01:33,593 --> 00:01:37,097
+her parents named
+the girl Snow White.
+
+10
+00:01:39,682 --> 00:01:42,769
+As she grew,
+the king and queen taught Snow
+White
+
+11
+00:01:42,811 --> 00:01:46,856
+that the bounty of the land
+belonged to all who tended it.
+
+12
+00:01:47,607 --> 00:01:50,485
+They showed her how
+to rule with love.
+
+13
+00:01:50,527 --> 00:01:54,656
+For someday, her destiny
+would be to lead.
+
+14
+00:01:55,573 --> 00:01:57,283
+♪ Look upon this land ♪
+
+15
+00:01:57,325 --> 00:01:59,285
+♪ On the home we've
+come to know ♪
+
+16
+00:01:59,327 --> 00:02:02,580
+♪ Where magic and
+light fill the air ♪
+
+17
+00:02:03,456 --> 00:02:05,458
+♪ Where we plant a tender seed ♪
+
+18
+00:02:05,500 --> 00:02:07,877
+♪ Trusting something
+good will grow ♪
+
+19
+00:02:07,919 --> 00:02:11,881
+♪ A kingdom for the
+free and the fair ♪
+
+20
+00:02:18,513 --> 00:02:20,265
+♪ Deep within the earth ♪
+
+21
+00:02:20,306 --> 00:02:22,225
+♪ There are wonders
+to be found ♪
+
+22
+00:02:22,267 --> 00:02:25,854
+♪ In the fields
+And the fruits that they bear ♪
+
+23
+00:02:26,563 --> 00:02:28,523
+♪ With a treasure
+trove of gems ♪
+
+24
+00:02:28,565 --> 00:02:30,567
+♪ Hidden just below the ground ♪
+
+25
+00:02:30,608 --> 00:02:35,405
+♪ A beautiful
+abundance we share ♪
+
+26
+00:02:35,989 --> 00:02:37,991
+♪ From the mountains high ♪
+
+27
+00:02:38,032 --> 00:02:39,993
+♪ To the deepest mines ♪
+
+28
+00:02:40,034 --> 00:02:44,330
+-♪ In a golden sky ♪
+- ♪ How the kingdom shines ♪
+
+29
+00:02:44,372 --> 00:02:46,082
+♪ And we give to this land ♪
+
+30
+00:02:46,124 --> 00:02:48,126
+♪ With a generous hand ♪
+
+31
+00:02:48,168 --> 00:02:52,172
+♪ And the bounty will flow ♪
+
+32
+00:02:52,213 --> 00:02:55,091
+♪ Where the good things grow ♪
+
+33
+00:03:08,438 --> 00:03:10,356
+♪ Where the good things grow ♪
+
+34
+00:03:17,906 --> 00:03:22,911
+♪ Make a wish for
+all you want to be ♪
+
+35
+00:03:23,995 --> 00:03:29,626
+♪ Tell us who you
+someday wish to see ♪
+
+36
+00:03:29,667 --> 00:03:30,668
+Go on.
+
+37
+00:03:32,503 --> 00:03:36,257
+♪ All I see is water ♪
+
+38
+00:03:36,299 --> 00:03:39,761
+♪ A mother, father, daughter ♪
+
+39
+00:03:39,802 --> 00:03:43,181
+♪ And the seed of
+someone who will lead ♪
+
+40
+00:03:43,223 --> 00:03:48,978
+♪ And make the
+good things grow ♪
+
+41
+00:03:49,020 --> 00:03:51,189
+♪ Someone fearless ♪
+
+42
+00:03:51,231 --> 00:03:53,441
+♪ Someone fearless ♪
+
+43
+00:03:53,483 --> 00:03:54,901
+♪ Someone fair ♪
+
+44
+00:03:54,943 --> 00:03:56,903
+♪ Someone fair ♪
+
+45
+00:03:56,945 --> 00:03:59,322
+♪ Someone brave ♪
+
+46
+00:03:59,364 --> 00:04:01,115
+♪ Someone brave ♪
+
+47
+00:04:01,157 --> 00:04:03,284
+♪ Someone true ♪
+
+48
+00:04:03,326 --> 00:04:06,079
+♪ Someone true ♪
+
+49
+00:04:06,996 --> 00:04:08,915
+♪ Make a wish ♪
+
+50
+00:04:08,957 --> 00:04:13,002
+♪ And you will see her too ♪
+
+51
+00:04:22,053 --> 00:04:24,347
+♪ From the mountains high ♪
+
+52
+00:04:24,389 --> 00:04:26,349
+♪ To the deepest mines ♪
+
+53
+00:04:26,391 --> 00:04:30,353
+-♪ In a golden sky ♪
+- ♪ How the kingdom shines ♪
+
+54
+00:04:30,395 --> 00:04:32,647
+♪ And we gather and give ♪
+
+55
+00:04:32,689 --> 00:04:34,232
+♪ As together we live ♪
+
+56
+00:04:34,274 --> 00:04:38,152
+♪ By the lessons we know ♪
+
+57
+00:04:38,194 --> 00:04:41,406
+♪ Where the good things grow ♪
+
+58
+00:04:46,619 --> 00:04:48,788
+♪ Where the good things grow ♪
+
+59
+00:04:56,587 --> 00:04:57,588
+Hi.
+
+60
+00:04:58,881 --> 00:05:01,050
+The king and queen
+watched with pride
+
+61
+00:05:01,092 --> 00:05:05,221
+as Snow White grew
+into a kind and fair young
+princess.
+
+62
+00:05:08,558 --> 00:05:11,436
+But then, tragedy struck.
+
+63
+00:05:13,021 --> 00:05:15,606
+Snow White's mother fell ill.
+
+64
+00:05:16,649 --> 00:05:18,443
+And the Good Queen died.
+
+65
+00:05:21,529 --> 00:05:25,241
+Snow White and the
+king were heartbroken.
+
+66
+00:05:26,743 --> 00:05:27,785
+Until...
+
+67
+00:05:29,746 --> 00:05:33,583
+an enchanting woman from a far
+-off land appeared at the
+palace.
+
+68
+00:05:47,221 --> 00:05:50,516
+So great was her
+beauty that it seemed
+
+69
+00:05:50,558 --> 00:05:52,852
+to grant her powers
+beyond the ordinary.
+
+70
+00:05:55,480 --> 00:05:57,357
+She married the king,
+
+71
+00:05:58,066 --> 00:06:00,109
+but she was not
+what she appeared.
+
+72
+00:06:00,860 --> 00:06:03,571
+She was evil
+
+73
+00:06:04,697 --> 00:06:06,949
+and cared only
+about her own beauty
+
+74
+00:06:07,617 --> 00:06:10,328
+and the power it granted.
+
+75
+00:06:11,412 --> 00:06:13,623
+To protect that power,
+
+76
+00:06:13,664 --> 00:06:15,875
+she kept a magic mirror
+
+77
+00:06:15,917 --> 00:06:19,337
+which could answer
+but one simple question.
+
+78
+00:06:19,379 --> 00:06:22,131
+Magic Mirror on the wall,
+
+79
+00:06:23,174 --> 00:06:26,594
+who is the fairest of them all?
+
+80
+00:06:26,636 --> 00:06:29,931
+You, my Queen,
+
+81
+00:06:29,972 --> 00:06:33,476
+of all the women reckoned fair,
+
+82
+00:06:33,518 --> 00:06:38,106
+your beauty is beyond compare.
+
+83
+00:06:38,147 --> 00:06:41,484
+The new queen wasted
+no time seizing power.
+
+84
+00:06:42,026 --> 00:06:46,114
+She warned of a terrible threat
+from beyond the Southern
+Kingdom.
+
+85
+00:06:46,155 --> 00:06:48,908
+So the Good King swore
+to defend his people.
+
+86
+00:06:50,868 --> 00:06:52,662
+♪ Hold it close ♪
+
+87
+00:06:52,703 --> 00:06:56,374
+♪ Til I return to you ♪
+
+88
+00:07:05,842 --> 00:07:08,386
+But the
+king did not return.
+
+89
+00:07:11,848 --> 00:07:14,392
+Fear gripped the kingdom.
+
+90
+00:07:14,434 --> 00:07:17,019
+And the queen's power grew.
+
+91
+00:07:19,147 --> 00:07:21,357
+She turned the
+farmers into soldiers
+
+92
+00:07:21,399 --> 00:07:23,025
+loyal only to her,
+
+93
+00:07:23,067 --> 00:07:26,904
+and robbed the riches of the
+kingdom for herself.
+
+94
+00:07:28,448 --> 00:07:30,616
+She made Snow White a servant
+
+95
+00:07:31,492 --> 00:07:34,203
+and locked her away
+behind the castle walls.
+
+96
+00:07:35,204 --> 00:07:40,209
+But as long as the mirror
+answered the queen each day tht
+she was the fairest,
+
+97
+00:07:40,251 --> 00:07:43,963
+Snow White remained safe
+from the queen's cruel jealous.
+
+98
+00:07:46,674 --> 00:07:49,385
+♪ From the mountain high ♪
+
+99
+00:07:49,427 --> 00:07:51,929
+♪ To the deepest mine ♪
+
+100
+00:07:51,971 --> 00:07:54,807
+♪ Where's the golden sky? ♪
+
+101
+00:07:54,849 --> 00:07:57,810
+♪ Did it ever shine? ♪
+
+102
+00:07:57,852 --> 00:08:00,354
+♪ Was it beautiful then? ♪
+
+103
+00:08:00,396 --> 00:08:02,732
+♪ Will we find it again? ♪
+
+104
+00:08:03,232 --> 00:08:08,196
+♪ How I wish I could go ♪
+
+105
+00:08:09,197 --> 00:08:10,907
+As the years passed,
+
+106
+00:08:10,948 --> 00:08:12,867
+the people nearly forgot
+
+107
+00:08:12,909 --> 00:08:15,786
+there ever was a princess
+named Snow White.
+
+108
+00:08:18,831 --> 00:08:24,670
+♪ Where the good things grow ♪
+
+109
+00:08:27,381 --> 00:08:28,508
+And in truth,
+
+110
+00:08:29,342 --> 00:08:32,386
+Snow White nearly
+forgot herself.
+
+111
+00:08:43,356 --> 00:08:44,398
+Hello?
+
+112
+00:08:53,032 --> 00:08:54,033
+I'm sorry.
+
+113
+00:08:54,575 --> 00:08:56,077
+Is there something
+I can help you with?
+
+114
+00:08:58,162 --> 00:09:00,456
+That's okay. Just browsing.
+
+115
+00:09:01,207 --> 00:09:03,501
+Well, I'm going to have to ask
+you to put those back.
+
+116
+00:09:03,543 --> 00:09:06,128
+I would, but it seems like
+the queen has plenty already.
+
+117
+00:09:06,170 --> 00:09:09,423
+Oh, I see.
+So that's your excuse for
+stealing?
+
+118
+00:09:09,465 --> 00:09:12,176
+My friends are hungry. I'm
+hungry. That's my excuse.
+
+119
+00:09:14,136 --> 00:09:16,305
+Maybe I can speak
+with the queen.
+
+120
+00:09:18,683 --> 00:09:21,102
+You really think the people
+upstairs want to share with
+people like us?
+
+121
+00:09:21,143 --> 00:09:22,144
+Well, the princess would.
+
+122
+00:09:22,687 --> 00:09:23,646
+Snow White.
+
+123
+00:09:24,855 --> 00:09:27,441
+Snow White hasn't been seen or
+heard from in many years.
+
+124
+00:09:27,483 --> 00:09:29,110
+I doubt she'll be of
+any help to anyone.
+
+125
+00:09:29,151 --> 00:09:31,153
+All she does is think of
+how to help her people.
+
+126
+00:09:31,195 --> 00:09:33,281
+Well, then you should let her
+know, at some point,
+
+127
+00:09:33,322 --> 00:09:35,074
+it might be useful for her
+to stop thinking.
+
+128
+00:09:35,575 --> 00:09:36,576
+Maybe start doing.
+
+129
+00:09:38,744 --> 00:09:41,622
+There's an intruder in
+the castle. Seal the doors!
+
+130
+00:09:42,123 --> 00:09:43,124
+Take some for yourself.
+
+131
+00:09:44,375 --> 00:09:46,002
+And share the rest
+with your princess.
+
+132
+00:09:51,048 --> 00:09:53,092
+Maybe no one else
+has even told her.
+
+133
+00:09:53,884 --> 00:09:56,762
+I'm sure if the queen was aware
+of how desperate things have
+gotten,
+
+134
+00:09:56,804 --> 00:09:58,472
+she would be happy to share.
+
+135
+00:10:02,268 --> 00:10:03,811
+I at least have to try,
+
+136
+00:10:04,854 --> 00:10:06,314
+even if it is just a wish.
+
+137
+00:10:07,189 --> 00:10:09,859
+Wish... Wish...
+
+138
+00:10:10,568 --> 00:10:11,694
+Wish...
+
+139
+00:10:14,697 --> 00:10:17,825
+Snow White, have you
+finished your chores?
+
+140
+00:10:18,951 --> 00:10:20,286
+Yes, Your Majesty.
+
+141
+00:10:20,328 --> 00:10:22,913
+It's important we
+all do our share.
+
+142
+00:10:22,955 --> 00:10:25,583
+Well, that's what I came
+to speak to you about, actually.
+
+143
+00:10:26,250 --> 00:10:27,251
+Sharing.
+
+144
+00:10:37,970 --> 00:10:38,971
+Please.
+
+145
+00:10:39,930 --> 00:10:41,223
+You were saying?
+
+146
+00:10:42,642 --> 00:10:43,643
+It's just...
+
+147
+00:10:44,644 --> 00:10:45,728
+Your Majesty,
+
+148
+00:10:46,520 --> 00:10:48,814
+people are struggling,
+and it may not be much,
+
+149
+00:10:48,856 --> 00:10:53,486
+but when I was young,
+my parents and I would pick
+apples.
+
+150
+00:10:53,527 --> 00:10:54,862
+We'd take them and make pies,
+
+151
+00:10:54,904 --> 00:10:56,781
+-then go out into the village...
+-Pies?
+
+152
+00:10:56,822 --> 00:10:59,784
+Pies are luxuries.
+They don't need luxuries.
+
+153
+00:11:00,618 --> 00:11:01,994
+It confuses them.
+
+154
+00:11:02,036 --> 00:11:05,706
+But sometimes something small,
+something sweet even,
+
+155
+00:11:05,748 --> 00:11:09,460
+can make you believe that
+there's more to being alive than
+mere subsistence.
+
+156
+00:11:11,170 --> 00:11:13,547
+You know, I really don't
+remember you being this...
+
+157
+00:11:14,465 --> 00:11:15,466
+opinionated.
+
+158
+00:11:16,425 --> 00:11:18,052
+My apologies. It's just...
+
+159
+00:11:19,303 --> 00:11:21,347
+I feel they need some kindness.
+
+160
+00:11:29,146 --> 00:11:32,566
+"Fearless, fair, brave, true."
+
+161
+00:11:34,318 --> 00:11:35,361
+How quaint.
+
+162
+00:11:36,445 --> 00:11:40,449
+One day, you'll understand
+how useless those words are.
+
+163
+00:11:41,367 --> 00:11:43,202
+But in the meantime,
+
+164
+00:11:44,453 --> 00:11:46,414
+here's a tidbit for you.
+
+165
+00:11:47,123 --> 00:11:48,290
+Observe.
+
+166
+00:11:51,001 --> 00:11:52,878
+Ravishing, isn't it?
+
+167
+00:11:52,920 --> 00:11:53,963
+Yes, Your Majesty.
+
+168
+00:11:55,881 --> 00:11:58,134
+One is weak, useless, fragile.
+
+169
+00:11:59,468 --> 00:12:03,389
+The other hard, unyielding,
+
+170
+00:12:03,431 --> 00:12:05,766
+everlasting, flawless,
+
+171
+00:12:06,267 --> 00:12:07,601
+beautiful.
+
+172
+00:12:09,979 --> 00:12:11,939
+My subjects don't want a flower.
+
+173
+00:12:12,815 --> 00:12:14,191
+They want a diamond.
+
+174
+00:12:16,360 --> 00:12:18,362
+-Your Highness...
+-Get your hands off me!
+
+175
+00:12:19,280 --> 00:12:22,450
+...this criminal was caught
+in the scullery pilfering royal
+supplies.
+
+176
+00:12:22,491 --> 00:12:23,784
+That's a lie.
+
+177
+00:12:32,376 --> 00:12:34,003
+Are you one of the bandits
+
+178
+00:12:34,044 --> 00:12:36,756
+that gather in the forest
+stealing in the name of the
+king?
+
+179
+00:12:36,797 --> 00:12:38,215
+No, no, Your Majesty.
+
+180
+00:12:38,257 --> 00:12:41,051
+Not "one of the
+bandits." I'm the boss.
+
+181
+00:12:41,093 --> 00:12:43,804
+Loyal to the one true king.
+
+182
+00:12:43,846 --> 00:12:46,891
+Find his home and
+burn it to the ground.
+
+183
+00:12:46,932 --> 00:12:48,601
+Funny thing is,
+
+184
+00:12:48,642 --> 00:12:49,685
+I don't actually have a home.
+
+185
+00:12:49,727 --> 00:12:51,479
+Then take him to the dungeon.
+
+186
+00:12:51,520 --> 00:12:54,231
+-Fill the castle with his cries.
+-Your Majesty...
+
+187
+00:12:55,941 --> 00:12:58,277
+I understand the
+need for justice.
+
+188
+00:12:58,319 --> 00:12:59,737
+But please, this isn't fair.
+
+189
+00:13:05,201 --> 00:13:06,368
+What did you say?
+
+190
+00:13:07,953 --> 00:13:11,957
+The punishment must
+not exceed the crime,
+
+191
+00:13:12,458 --> 00:13:14,502
+- and I know my father would...
+- Your father?
+
+192
+00:13:15,586 --> 00:13:16,670
+Your father?
+
+193
+00:13:17,880 --> 00:13:19,507
+My father would show mercy.
+
+194
+00:13:25,888 --> 00:13:27,932
+I'm sorry, my
+dear. You're right.
+
+195
+00:13:28,641 --> 00:13:31,519
+This thief stole from me.
+
+196
+00:13:31,560 --> 00:13:34,021
+So, I will steal from him.
+
+197
+00:13:34,063 --> 00:13:37,316
+Remove his coat and boots
+and bind him to the gates to
+freeze.
+
+198
+00:13:37,358 --> 00:13:38,818
+You know, is the
+dungeon still an option?
+
+199
+00:13:38,859 --> 00:13:40,361
+Take him away!
+
+200
+00:13:40,402 --> 00:13:42,696
+Wait, he'll perish.
+Please, Your Majesty.
+
+201
+00:13:42,738 --> 00:13:43,739
+Snow White!
+
+202
+00:13:44,740 --> 00:13:45,741
+Here...
+
+203
+00:13:46,909 --> 00:13:48,118
+look at yourself.
+
+204
+00:13:48,911 --> 00:13:50,621
+Isn't this what you want?
+
+205
+00:13:51,789 --> 00:13:52,957
+Go on,
+
+206
+00:13:52,998 --> 00:13:55,000
+speak to your people.
+
+207
+00:13:56,669 --> 00:13:58,879
+Your subjects await
+you, Snow White.
+
+208
+00:13:59,588 --> 00:14:03,133
+Your pies and your wise words.
+
+209
+00:14:04,093 --> 00:14:05,594
+What will you tell them, hmm?
+
+210
+00:14:06,512 --> 00:14:08,764
+That you've made them dessert?
+
+211
+00:14:10,808 --> 00:14:12,101
+You live in a world of wishes.
+
+212
+00:14:13,602 --> 00:14:15,729
+Go back to your
+well, Snow White.
+
+213
+00:14:32,496 --> 00:14:35,541
+♪ Little girl at a lonely well ♪
+
+214
+00:14:35,583 --> 00:14:38,669
+♪ With the same
+little tale to tell ♪
+
+215
+00:14:38,711 --> 00:14:41,547
+♪ Feeling trapped by the walls
+That hold her ♪
+
+216
+00:14:41,589 --> 00:14:44,675
+♪ Feeling stuck in the story
+They've told her ♪
+
+217
+00:14:44,717 --> 00:14:47,803
+♪ Another day where
+she fades away ♪
+
+218
+00:14:47,845 --> 00:14:50,180
+♪ Never daring to disobey ♪
+
+219
+00:14:50,222 --> 00:14:53,225
+♪ So she's dreaming all alone ♪
+
+220
+00:14:53,267 --> 00:14:56,103
+♪ Sharing secrets
+with the stone ♪
+
+221
+00:14:57,187 --> 00:15:00,441
+♪ My father told me, long ago ♪
+
+222
+00:15:00,482 --> 00:15:03,193
+♪ I braved a bitter
+storm of snow ♪
+
+223
+00:15:03,235 --> 00:15:08,157
+♪ Is that a girl I'll
+ever know again? ♪
+
+224
+00:15:09,742 --> 00:15:11,535
+♪ I'm waiting on a wish ♪
+
+225
+00:15:11,577 --> 00:15:14,371
+♪ Beneath a thousand treetops ♪
+
+226
+00:15:14,413 --> 00:15:16,916
+♪ And as the silver sky stops ♪
+
+227
+00:15:16,957 --> 00:15:21,420
+♪ I send a whisper
+to the water ♪
+
+228
+00:15:21,462 --> 00:15:23,172
+♪ Waiting on a wish ♪
+
+229
+00:15:23,213 --> 00:15:25,799
+♪ Holding out for someday ♪
+
+230
+00:15:25,841 --> 00:15:28,469
+♪ Hoping somehow, some way ♪
+
+231
+00:15:28,510 --> 00:15:32,556
+♪ I'll become my
+father's daughter ♪
+
+232
+00:15:32,598 --> 00:15:35,351
+♪ I close my eyes and see ♪
+
+233
+00:15:35,392 --> 00:15:38,228
+♪ The girl I'm meant to be ♪
+
+234
+00:15:38,270 --> 00:15:44,234
+♪ Is she a part of me
+I've yet to find? ♪
+
+235
+00:15:44,276 --> 00:15:46,904
+♪ Wondering, "Will
+she appear?" ♪
+
+236
+00:15:46,946 --> 00:15:50,032
+♪ Or will I be forever here ♪
+
+237
+00:15:50,074 --> 00:15:51,659
+♪ Waiting on a wish? ♪
+
+238
+00:15:56,664 --> 00:15:59,333
+♪ Little girl by a wild wood ♪
+
+239
+00:15:59,375 --> 00:16:02,169
+♪ How she tries to
+be someone good ♪
+
+240
+00:16:02,211 --> 00:16:04,880
+♪ But in the shadow
+The kingdom's caught in ♪
+
+241
+00:16:04,922 --> 00:16:08,217
+♪ Somehow fairness
+is long forgotten ♪
+
+242
+00:16:08,258 --> 00:16:11,261
+♪ So will she rise
+or bow her head? ♪
+
+243
+00:16:11,303 --> 00:16:14,014
+♪ Will she lead
+or just be led? ♪
+
+244
+00:16:14,056 --> 00:16:18,727
+♪ Is she the girl
+She always said she'd be? ♪
+
+245
+00:16:19,812 --> 00:16:21,522
+♪ I'm waiting on a wish ♪
+
+246
+00:16:21,563 --> 00:16:24,358
+♪ Beneath a thousand treetops ♪
+
+247
+00:16:24,400 --> 00:16:26,819
+♪ And as the silver sky stops ♪
+
+248
+00:16:26,860 --> 00:16:31,323
+♪ I long to leave
+the walls behind me ♪
+
+249
+00:16:31,365 --> 00:16:32,908
+♪ Waiting on a wish ♪
+
+250
+00:16:32,950 --> 00:16:35,536
+♪ Holding out for someday ♪
+
+251
+00:16:35,577 --> 00:16:38,205
+♪ Hoping somehow, some way ♪
+
+252
+00:16:38,247 --> 00:16:42,334
+♪ There comes a
+miracle to find me ♪
+
+253
+00:16:42,376 --> 00:16:45,170
+♪ I close my eyes and see ♪
+
+254
+00:16:45,212 --> 00:16:48,007
+♪ The girl I'm meant to be ♪
+
+255
+00:16:48,048 --> 00:16:53,846
+♪ Is she a part of me
+I've had to hide? ♪
+
+256
+00:16:53,887 --> 00:16:56,473
+♪ Wondering, "Will
+she appear?" ♪
+
+257
+00:16:56,515 --> 00:16:59,518
+♪ Or will I spend another year ♪
+
+258
+00:16:59,560 --> 00:17:01,145
+♪ Waiting on a wish? ♪
+
+259
+00:17:01,186 --> 00:17:04,273
+♪ They say all you have to do ♪
+
+260
+00:17:04,314 --> 00:17:07,568
+♪ To make your wish come true ♪
+
+261
+00:17:07,609 --> 00:17:11,989
+♪ Is let it echo,
+echo, echo, echo ♪
+
+262
+00:17:12,573 --> 00:17:15,576
+♪ Your voice will
+carry through ♪
+
+263
+00:17:15,617 --> 00:17:18,912
+♪ And bring that dream to you ♪
+
+264
+00:17:18,954 --> 00:17:22,332
+♪ Just like an
+echo, echo, echo ♪
+
+265
+00:17:22,374 --> 00:17:28,172
+♪ Well, I can hear the echo
+Loud and clear ♪
+
+266
+00:17:28,213 --> 00:17:32,718
+♪ But I'm still waiting here ♪
+
+267
+00:17:35,637 --> 00:17:37,347
+Come on! Move it!
+
+268
+00:17:39,224 --> 00:17:40,225
+Move!
+
+269
+00:17:43,979 --> 00:17:44,980
+Shut up!
+
+270
+00:18:05,918 --> 00:18:07,336
+It isn't much, but...
+
+271
+00:18:20,265 --> 00:18:21,725
+Tell me what it's
+like out there.
+
+272
+00:18:22,726 --> 00:18:24,186
+Why don't you come and find out?
+
+273
+00:18:26,105 --> 00:18:27,272
+I can't.
+
+274
+00:18:27,314 --> 00:18:28,941
+I saw you give it to
+the queen back there.
+
+275
+00:18:30,067 --> 00:18:31,110
+You seem brave enough.
+
+276
+00:18:31,819 --> 00:18:32,861
+Brave?
+
+277
+00:18:35,531 --> 00:18:37,574
+You have to go. Run.
+
+278
+00:18:38,242 --> 00:18:39,576
+-Thank you.
+-Go.
+
+279
+00:18:49,711 --> 00:18:51,296
+♪ Waiting on a wish ♪
+
+280
+00:18:56,760 --> 00:19:01,265
+♪ Beyond a whisper
+to the water ♪
+
+281
+00:19:01,306 --> 00:19:02,975
+♪ Waiting on a wish ♪
+
+282
+00:19:03,016 --> 00:19:05,811
+♪ Is it almost someday? ♪
+
+283
+00:19:05,853 --> 00:19:08,438
+♪ Can I somehow, some way ♪
+
+284
+00:19:08,480 --> 00:19:13,402
+♪ Learn to be my
+father's daughter? ♪
+
+285
+00:19:15,696 --> 00:19:18,407
+♪ Someone who could
+fin'lly start ♪
+
+286
+00:19:18,448 --> 00:19:21,118
+♪ Start speaking with
+a fearless heart ♪
+
+287
+00:19:21,994 --> 00:19:24,329
+♪ Someone who just
+might be brave ♪
+
+288
+00:19:24,371 --> 00:19:28,876
+♪ Someone no one needs to save ♪
+
+289
+00:19:29,793 --> 00:19:32,588
+♪ Well, I can always dream ♪
+
+290
+00:19:32,629 --> 00:19:34,339
+♪ But then... ♪
+
+291
+00:19:34,381 --> 00:19:38,051
+♪ I wake up and it's me again ♪
+
+292
+00:19:39,887 --> 00:19:41,555
+♪ Waiting on a wish ♪
+
+293
+00:19:46,101 --> 00:19:48,520
+♪ Waiting on a wish ♪
+
+294
+00:19:53,483 --> 00:19:59,489
+♪ Waiting on a wish ♪
+
+295
+00:20:08,790 --> 00:20:11,501
+Magic Mirror on the wall,
+
+296
+00:20:12,002 --> 00:20:14,254
+who is the fairest of them all?
+
+297
+00:20:16,590 --> 00:20:18,967
+Famed is thy beauty, Majesty.
+
+298
+00:20:19,468 --> 00:20:20,469
+But wait,
+
+299
+00:20:21,261 --> 00:20:24,014
+a lovely maiden I now behold
+
+300
+00:20:24,056 --> 00:20:26,391
+awakened to the world.
+
+301
+00:20:26,433 --> 00:20:29,269
+Nothing can hide
+her gentle grace,
+
+302
+00:20:29,311 --> 00:20:31,021
+for I see
+
+303
+00:20:31,063 --> 00:20:34,358
+she is more fair than thee.
+
+304
+00:20:34,399 --> 00:20:35,400
+No!
+
+305
+00:20:37,611 --> 00:20:38,820
+Huntsman?
+
+306
+00:20:39,321 --> 00:20:40,572
+Your Majesty.
+
+307
+00:20:40,614 --> 00:20:42,908
+Take Snow White far
+into the forest.
+
+308
+00:20:42,950 --> 00:20:46,954
+Find a secluded glade
+where she can pick apples,
+
+309
+00:20:46,995 --> 00:20:48,413
+and there,
+
+310
+00:20:49,164 --> 00:20:51,959
+my faithful Huntsman,
+
+311
+00:20:52,918 --> 00:20:53,919
+kill her.
+
+312
+00:20:54,836 --> 00:20:55,837
+But,
+
+313
+00:20:56,546 --> 00:20:57,798
+Majesty,
+
+314
+00:20:57,839 --> 00:20:59,508
+she's just a girl.
+
+315
+00:21:00,550 --> 00:21:02,469
+And I'm your queen.
+
+316
+00:21:03,804 --> 00:21:05,973
+It was Snow White who
+set the bandit free.
+
+317
+00:21:06,014 --> 00:21:07,891
+She's plotting against me.
+
+318
+00:21:09,601 --> 00:21:10,769
+Now, tell me,
+
+319
+00:21:11,770 --> 00:21:13,397
+are you against me, too?
+
+320
+00:21:15,774 --> 00:21:17,734
+Are you? Yes or no?
+
+321
+00:21:18,402 --> 00:21:19,403
+No,
+
+322
+00:21:19,903 --> 00:21:20,904
+Majesty.
+
+323
+00:21:27,911 --> 00:21:29,371
+Take
+her to the forest.
+
+324
+00:21:30,163 --> 00:21:31,164
+Kill her.
+
+325
+00:21:32,416 --> 00:21:33,667
+Cut out her heart.
+
+326
+00:21:35,002 --> 00:21:36,420
+Put it in this box.
+
+327
+00:21:36,878 --> 00:21:38,338
+On your return,
+
+328
+00:21:39,298 --> 00:21:42,301
+you will have anything
+your heart desires.
+
+329
+00:22:11,621 --> 00:22:13,123
+Would you like one?
+
+330
+00:22:23,050 --> 00:22:24,259
+You're very kind.
+
+331
+00:22:25,802 --> 00:22:26,803
+It's getting late.
+
+332
+00:22:46,156 --> 00:22:47,157
+Why?
+
+333
+00:22:49,576 --> 00:22:50,619
+Why?
+
+334
+00:23:00,504 --> 00:23:02,464
+You must flee into the woods.
+
+335
+00:23:02,506 --> 00:23:04,007
+The queen is mad.
+She'll stop at nothing.
+
+336
+00:23:04,049 --> 00:23:05,425
+I can't leave the kingdom.
+
+337
+00:23:05,467 --> 00:23:07,135
+She is evil, child.
+
+338
+00:23:07,844 --> 00:23:08,845
+She's a liar.
+
+339
+00:23:09,763 --> 00:23:12,057
+You were never told the truth
+about your father.
+
+340
+00:23:12,808 --> 00:23:13,934
+Go!
+
+341
+00:23:14,851 --> 00:23:17,270
+-But what about my father?
+-Go. Please!
+
+342
+00:23:17,312 --> 00:23:19,398
+Before I change my mind!
+
+343
+00:23:23,235 --> 00:23:24,194
+Go!
+
+344
+00:26:58,742 --> 00:26:59,743
+Hello?
+
+345
+00:27:04,331 --> 00:27:05,749
+Is there anybody here?
+
+346
+00:28:08,978 --> 00:28:11,856
+♪ Heigh-ho ♪
+
+347
+00:28:11,898 --> 00:28:14,442
+♪ Heigh-ho ♪
+
+348
+00:28:14,484 --> 00:28:16,945
+-♪ Heigh-ho ♪
+-♪ Heigh-ho ♪
+
+349
+00:28:16,986 --> 00:28:19,948
+♪ Heigh-ho ♪
+
+350
+00:28:19,989 --> 00:28:24,494
+♪ Heigh-ho, heigh-ho
+It's off to work we go ♪
+
+351
+00:28:24,536 --> 00:28:25,745
+♪ It's rise and shine ♪
+
+352
+00:28:25,787 --> 00:28:27,372
+♪ And stay in line! ♪
+
+353
+00:28:27,414 --> 00:28:31,501
+♪ Heigh-ho, heigh-ho, heigh-ho
+Heigh-ho, heigh-ho ♪
+
+354
+00:28:31,543 --> 00:28:33,712
+♪ We heard the rooster crow ♪
+
+355
+00:28:33,753 --> 00:28:34,921
+♪ All dressed and fed ♪
+
+356
+00:28:34,963 --> 00:28:36,047
+♪ Full speed ahead ♪
+
+357
+00:28:36,089 --> 00:28:37,882
+♪ Heigh-ho, heigh-ho ♪
+
+358
+00:28:38,508 --> 00:28:40,760
+- ♪ A splendid day to say ♪
+-♪ Achoo! ♪
+
+359
+00:28:40,802 --> 00:28:42,095
+-Oh, my!
+-Gesundheit.
+
+360
+00:28:42,137 --> 00:28:43,430
+Why, thank you.
+
+361
+00:28:43,471 --> 00:28:45,348
+♪ Do ya know what
+I'm allergic to? ♪
+
+362
+00:28:45,390 --> 00:28:47,183
+♪ This sorry sack of chumps ♪
+
+363
+00:28:47,225 --> 00:28:49,644
+♪ Ah, why don't you
+shut it, Grumps! ♪
+
+364
+00:28:50,228 --> 00:28:52,439
+♪ Heigh-ho, heigh-ho ♪
+
+365
+00:28:52,480 --> 00:28:54,816
+♪ Heigh-ho, heigh-ho ♪
+
+366
+00:28:54,858 --> 00:28:58,486
+♪ Heigh-ho, heigh-ho
+Heigh-ho, heigh-hum ♪
+
+367
+00:28:58,528 --> 00:29:01,531
+♪ Heigh-ho, heigh-ho ♪
+
+368
+00:29:01,573 --> 00:29:03,742
+♪ It's off to work we go ♪
+
+369
+00:29:03,783 --> 00:29:05,994
+♪ I function best on
+a full night's rest ♪
+
+370
+00:29:06,035 --> 00:29:10,039
+♪ And so, it's
+back to bed I go ♪
+
+371
+00:29:10,081 --> 00:29:10,915
+Hello?
+
+372
+00:29:10,957 --> 00:29:12,041
+♪ I'm sleepy ♪
+
+373
+00:29:12,083 --> 00:29:13,585
+♪ Yeah, we know! ♪
+
+374
+00:29:13,626 --> 00:29:15,879
+♪ And the more we talk
+The less we walk ♪
+
+375
+00:29:15,920 --> 00:29:17,005
+♪ Let's go! ♪
+
+376
+00:29:17,046 --> 00:29:18,173
+♪ Heigh-ho ♪
+
+377
+00:29:20,759 --> 00:29:22,719
+♪ Deep in the dark ♪
+
+378
+00:29:22,761 --> 00:29:25,221
+♪ Our magic will mark
+A spot where the sparkle starts
+to shine ♪
+
+379
+00:29:25,263 --> 00:29:27,640
+♪ There's gems in the land
+So hold up your hand ♪
+
+380
+00:29:27,682 --> 00:29:29,893
+♪ As light so brightly
+fills the mine ♪
+
+381
+00:29:29,934 --> 00:29:32,520
+-♪ Now quick, better climb 'n
+dig ♪ -♪ For a diamond ♪
+
+382
+00:29:32,562 --> 00:29:34,189
+♪ Get your rear in gear ♪
+
+383
+00:29:41,863 --> 00:29:43,072
+♪ Now yank up your socks ♪
+
+384
+00:29:43,114 --> 00:29:44,282
+♪ Let's rip at the rocks ♪
+
+385
+00:29:44,324 --> 00:29:45,867
+♪ And as we swing ♪
+
+386
+00:29:45,909 --> 00:29:48,036
+♪ We always sing ♪
+
+387
+00:29:48,077 --> 00:29:50,371
+♪ Heigh-ho, heigh-ho ♪
+
+388
+00:29:50,413 --> 00:29:53,082
+♪ The highest high I know ♪
+
+389
+00:29:53,124 --> 00:29:55,251
+♪ Is when we dig
+Up rocks this big ♪
+
+390
+00:29:55,293 --> 00:29:58,797
+♪ And so
+My smile starts to grow ♪
+
+391
+00:29:58,838 --> 00:30:00,298
+- ♪ I glow! ♪
+- Ugh!
+
+392
+00:30:00,340 --> 00:30:02,175
+-♪ I'm happy! ♪
+-♪ Yeah, we know! ♪
+
+393
+00:30:02,217 --> 00:30:04,594
+♪ You make me sick
+A bucket, quick! ♪
+
+394
+00:30:04,636 --> 00:30:05,762
+♪ Uh-oh! ♪
+
+395
+00:30:05,804 --> 00:30:07,889
+♪ Heigh-ho ♪
+
+396
+00:30:07,931 --> 00:30:11,684
+♪ We dig, dig, dig, dig, dig,
+dig Dig from early morn till
+night ♪
+
+397
+00:30:11,726 --> 00:30:16,147
+♪ We dig, dig, dig, dig, dig,
+dig Dig up everything in sight♪
+
+398
+00:30:16,189 --> 00:30:18,608
+♪ We dig up diamonds
+by the score ♪
+
+399
+00:30:18,650 --> 00:30:19,776
+♪ A thousand rubies ♪
+
+400
+00:30:19,818 --> 00:30:21,236
+♪ Sometimes more! ♪
+
+401
+00:30:21,277 --> 00:30:23,196
+♪ It's the sparkly stuff
+we're digging for ♪
+
+402
+00:30:23,238 --> 00:30:25,114
+♪ We dig, dig, dig-a-dig, dig ♪
+
+403
+00:31:04,112 --> 00:31:06,531
+♪ Heigh-ho ♪
+
+404
+00:31:06,573 --> 00:31:08,575
+♪ Heigh-ho ♪
+
+405
+00:31:08,616 --> 00:31:10,159
+♪ Heigh-ho ♪
+
+406
+00:31:10,201 --> 00:31:12,662
+-♪ Heigh-ho ♪
+-♪ Heigh-ho ♪
+
+407
+00:31:12,704 --> 00:31:14,789
+♪ Heigh-ho ♪
+
+408
+00:31:14,831 --> 00:31:17,000
+♪ Heigh-ho, heigh-ho ♪
+
+409
+00:31:17,041 --> 00:31:18,918
+♪ It's home from work we go ♪
+
+410
+00:31:19,419 --> 00:31:20,879
+♪ Day's over, gang! ♪
+
+411
+00:31:20,920 --> 00:31:22,005
+-♪ We're done? ♪
+-♪ Hot dang! ♪
+
+412
+00:31:22,046 --> 00:31:23,923
+♪ Heigh-ho, heigh-ho, heigh-ho ♪
+
+413
+00:31:23,965 --> 00:31:26,259
+♪ Heigh-ho, heigh-ho ♪
+
+414
+00:31:26,301 --> 00:31:28,595
+♪ Sing out, fortissimo ♪
+
+415
+00:31:28,636 --> 00:31:30,013
+♪ Oh, dear, oh, my ♪
+
+416
+00:31:30,054 --> 00:31:32,140
+♪ Do you mind if I lay low ♪
+
+417
+00:31:32,181 --> 00:31:35,768
+♪ See, sometimes I get so...
+Get so... ♪
+
+418
+00:31:35,810 --> 00:31:38,229
+-♪ He's bashful! ♪
+-♪ Yeah, we know! ♪
+
+419
+00:31:38,271 --> 00:31:40,398
+♪ Well, move your tail
+Let's hit the trail ♪
+
+420
+00:31:40,440 --> 00:31:41,900
+♪ Don't drag your feet ♪
+
+421
+00:31:41,941 --> 00:31:43,318
+♪ It's time to eat! ♪
+
+422
+00:31:43,359 --> 00:31:44,193
+-♪ We'll sleep ♪
+-♪ Amen! ♪
+
+423
+00:31:44,235 --> 00:31:45,320
+♪ Arise and then ♪
+
+424
+00:31:45,361 --> 00:31:49,365
+♪ It's off to work we go again ♪
+
+425
+00:31:49,407 --> 00:31:50,950
+♪ Heigh-ho ♪
+
+426
+00:31:50,992 --> 00:31:52,035
+♪ Heigh-ho ♪
+
+427
+00:31:52,076 --> 00:31:53,578
+♪ Heigh-ho ♪
+
+428
+00:31:53,620 --> 00:31:55,788
+-♪ Heigh-ho, heigh-ho ♪
+-♪ Heigh-ho ♪
+
+429
+00:31:55,830 --> 00:31:57,123
+-♪ Heigh-ho ♪
+-♪ Heigh-ho ♪
+
+430
+00:31:57,165 --> 00:31:58,458
+-♪ Heigh-ho ♪
+-♪ Heigh-ho ♪
+
+431
+00:31:58,499 --> 00:31:59,792
+-♪ Heigh-ho ♪
+-♪ Heigh-ho ♪
+
+432
+00:31:59,834 --> 00:32:01,127
+-♪ Heigh-ho ♪
+-♪ Heigh-ho ♪
+
+433
+00:32:01,169 --> 00:32:02,086
+-♪ Heigh-ho ♪
+-♪ Heigh-ho ♪
+
+434
+00:32:02,128 --> 00:32:03,546
+♪ Heigh-ho, heigh-ho! ♪
+
+435
+00:32:03,588 --> 00:32:05,840
+- Easy with that door,
+Doc.
+
+436
+00:32:05,882 --> 00:32:07,675
+Home sweet home.
+
+437
+00:32:07,717 --> 00:32:10,470
+It is indeed exceptional
+to be back at our place of
+habitation.
+
+438
+00:32:10,511 --> 00:32:12,180
+Is it me or
+is it dusty in here?
+
+439
+00:32:12,221 --> 00:32:13,932
+It's you.
+
+440
+00:32:17,685 --> 00:32:19,062
+Can't wait to floss.
+
+441
+00:32:28,488 --> 00:32:30,031
+It's a... It's a...
+
+442
+00:32:30,073 --> 00:32:31,282
+It's a...
+
+443
+00:32:31,324 --> 00:32:32,325
+What?
+
+444
+00:32:32,367 --> 00:32:33,618
+He did it again.
+
+445
+00:32:33,660 --> 00:32:34,786
+Narcoleptic cataplexy.
+
+446
+00:32:34,827 --> 00:32:36,788
+I thought he just...
+
+447
+00:32:36,829 --> 00:32:38,206
+fell asleep when he was worried.
+
+448
+00:32:38,247 --> 00:32:40,249
+What's there to
+be worried about?
+
+449
+00:32:43,503 --> 00:32:45,713
+Time to worry!
+
+450
+00:32:46,381 --> 00:32:47,382
+Barricade the door!
+
+451
+00:32:51,761 --> 00:32:53,429
+Guys, where's Dopey?
+
+452
+00:32:58,226 --> 00:32:59,268
+Don't move.
+
+453
+00:32:59,310 --> 00:33:00,561
+Ogres smell fear.
+
+454
+00:33:00,603 --> 00:33:02,397
+It's not an ogre. It's a
+phantasm.
+
+455
+00:33:02,438 --> 00:33:03,564
+Should he
+crouch and hide?
+
+456
+00:33:03,606 --> 00:33:05,024
+Or make himself big and roar?
+
+457
+00:33:05,066 --> 00:33:06,442
+Depends what kind of ogre.
+
+458
+00:33:06,484 --> 00:33:07,652
+It's not an ogre!
+
+459
+00:33:07,694 --> 00:33:08,861
+It's a demon goat.
+
+460
+00:33:08,903 --> 00:33:10,196
+Don't look
+it in the eyes.
+
+461
+00:33:10,238 --> 00:33:11,823
+If you see ectoplasm,
+
+462
+00:33:11,864 --> 00:33:13,992
+- don't touch it.
+- Is it floating?
+
+463
+00:33:14,033 --> 00:33:15,535
+Be careful, Dopey.
+
+464
+00:33:52,530 --> 00:33:53,823
+Don't be afraid.
+
+465
+00:33:56,951 --> 00:33:58,119
+It's all right.
+
+466
+00:34:01,831 --> 00:34:03,291
+I only wanted to meet you.
+
+467
+00:34:07,545 --> 00:34:08,671
+What's your name?
+
+468
+00:34:12,300 --> 00:34:13,593
+Don't you speak?
+
+469
+00:34:13,634 --> 00:34:15,428
+Let's take
+back our friend!
+
+470
+00:34:17,263 --> 00:34:19,098
+Wait, wait. Please.
+
+471
+00:34:19,140 --> 00:34:20,850
+-Why...
+-It's a human.
+
+472
+00:34:21,434 --> 00:34:23,269
+Well, yes. What did
+you think I was?
+
+473
+00:34:23,311 --> 00:34:24,353
+-Nothing.
+-Ghost.
+
+474
+00:34:25,146 --> 00:34:26,773
+- But where did you come from?
+- Are you hungry?
+
+475
+00:34:26,814 --> 00:34:27,940
+Can we be friends?
+
+476
+00:34:27,982 --> 00:34:29,150
+What's your name?
+
+477
+00:34:29,192 --> 00:34:30,902
+Why is everyone
+being so cordial?
+
+478
+00:34:30,943 --> 00:34:33,905
+The only human things that come
+into the forest anymore are
+bandits
+
+479
+00:34:33,946 --> 00:34:36,866
+-who claim to fight in the
+king's name. -What?
+
+480
+00:34:36,908 --> 00:34:39,327
+You're in trouble with
+the law, aren't ya?
+
+481
+00:34:40,870 --> 00:34:41,829
+Hmm?
+
+482
+00:34:41,871 --> 00:34:43,498
+-I'd better go.
+-Told ya.
+
+483
+00:34:43,539 --> 00:34:45,750
+- No, no, no. Wait, wait. Hold
+on. - Let her leave.
+
+484
+00:34:45,792 --> 00:34:48,002
+Well, at least tell
+us who you are.
+
+485
+00:34:48,044 --> 00:34:49,212
+- Yeah.
+- Yes.
+
+486
+00:34:49,253 --> 00:34:50,922
+My name is Snow White.
+
+487
+00:34:54,342 --> 00:34:56,469
+- Snow White?
+- The princess?
+
+488
+00:34:56,511 --> 00:34:57,637
+I say it's a trap.
+
+489
+00:34:57,678 --> 00:34:59,764
+But she needs our help.
+
+490
+00:34:59,806 --> 00:35:01,974
+- Anyone still think
+she's a ghost? -Wait, wait,
+wait. Where are you going?
+
+491
+00:35:02,016 --> 00:35:04,102
+As far away from the
+castle as possible.
+
+492
+00:35:04,143 --> 00:35:05,561
+- That's not good
+enough. - But why?
+
+493
+00:35:09,357 --> 00:35:11,484
+The truth is, the
+queen tried to kill me.
+
+494
+00:35:11,526 --> 00:35:13,986
+She really tried to kill you?
+
+495
+00:35:14,028 --> 00:35:15,321
+Well, that's terrible.
+
+496
+00:35:15,363 --> 00:35:18,241
+It's also exactly why
+you have to leave.
+
+497
+00:35:18,282 --> 00:35:20,618
+You should stay here until you
+figure out where you're gonna
+go.
+
+498
+00:35:20,660 --> 00:35:23,037
+-What?
+-I think that's a wonderful
+idea.
+
+499
+00:35:23,079 --> 00:35:24,372
+Now, hold on.
+
+500
+00:35:24,413 --> 00:35:26,582
+A human shows up in this cottage
+for the first time
+
+501
+00:35:26,624 --> 00:35:28,000
+in 275 years
+
+502
+00:35:28,042 --> 00:35:29,460
+and you ask her to stay?
+
+503
+00:35:29,502 --> 00:35:31,045
+Did he just say
+
+504
+00:35:31,087 --> 00:35:32,839
+275 years?
+
+505
+00:35:32,880 --> 00:35:35,550
+274, to be precise.
+
+506
+00:35:35,591 --> 00:35:37,260
+We're as old as the trees.
+
+507
+00:35:37,802 --> 00:35:40,471
+My parents always said
+this forest was a magical place.
+
+508
+00:35:40,513 --> 00:35:43,516
+And I've always said
+that humans cause nothing but
+trouble.
+
+509
+00:35:43,558 --> 00:35:45,143
+I'm sorry. I don't
+know your name.
+
+510
+00:35:45,977 --> 00:35:48,771
+Allow me to introduce
+in alphabetical order.
+
+511
+00:35:48,813 --> 00:35:50,481
+Bashful. Dopey.
+
+512
+00:35:50,523 --> 00:35:52,024
+Grumpy. Happy.
+
+513
+00:35:52,066 --> 00:35:53,484
+Sleepy. Sneezy.
+
+514
+00:35:53,526 --> 00:35:55,069
+And I'm Doc.
+
+515
+00:35:55,111 --> 00:35:57,905
+You said we were doing
+reverse alphabetical order this
+time.
+
+516
+00:35:57,947 --> 00:35:59,365
+That was last time.
+
+517
+00:35:59,407 --> 00:36:00,908
+So, in reverse order,
+
+518
+00:36:00,950 --> 00:36:03,911
+it's Sneezy, Sleepy, Happy,
+Grumpy, Dopey, Doc, and Bashful.
+
+519
+00:36:03,953 --> 00:36:05,705
+Well, I'll be.
+
+520
+00:36:05,746 --> 00:36:07,415
+How did she do that?
+
+521
+00:36:07,456 --> 00:36:10,001
+My mother always taught me
+that it was important to learn a
+name.
+
+522
+00:36:10,042 --> 00:36:12,503
+Well, in order of the longest
+toes to the shortest toes,
+
+523
+00:36:12,545 --> 00:36:13,921
+I have the longest toes.
+
+524
+00:36:15,756 --> 00:36:16,757
+If that helps.
+
+525
+00:36:17,133 --> 00:36:20,386
+And what exactly do you do
+out here in the forest?
+
+526
+00:36:20,428 --> 00:36:23,472
+Oh. Well, it's our
+job to mine the mines.
+
+527
+00:36:23,514 --> 00:36:25,141
+You'd be amazed at
+what you can find.
+
+528
+00:36:25,183 --> 00:36:27,059
+Sparkling rocks of every kind.
+
+529
+00:36:27,101 --> 00:36:28,603
+A place where
+magic still abides.
+
+530
+00:36:28,644 --> 00:36:30,688
+Not for long if she resides!
+
+531
+00:36:30,730 --> 00:36:32,148
+Look at the time.
+
+532
+00:36:34,317 --> 00:36:38,487
+The important thing is that Snow
+White is out of harm's way at
+our address.
+
+533
+00:36:38,529 --> 00:36:39,822
+- Right, fellas?
+- Yeah.
+
+534
+00:36:40,198 --> 00:36:41,616
+-Absolutely.
+-Objection.
+
+535
+00:36:41,657 --> 00:36:43,492
+Noted. Just ignore him.
+
+536
+00:36:49,624 --> 00:36:51,125
+Maybe I'll just
+stay for one night.
+
+537
+00:36:51,167 --> 00:36:53,002
+One night. Then she leaves.
+
+538
+00:36:53,044 --> 00:36:55,379
+-You can come here.
+-What size are your slippers?
+
+539
+00:36:55,421 --> 00:36:57,840
+-I love slumber parties.
+-We got some spare upstairs.
+
+540
+00:36:57,882 --> 00:36:59,800
+You'll be safe
+from the queen here.
+
+541
+00:37:07,642 --> 00:37:10,102
+Magic Mirror on the wall,
+
+542
+00:37:10,895 --> 00:37:14,398
+who's the fairest one of all?
+
+543
+00:37:14,440 --> 00:37:17,443
+Far beyond the castle wall,
+
+544
+00:37:17,485 --> 00:37:20,238
+somewhere in the woods dwells
+
+545
+00:37:20,780 --> 00:37:22,740
+Snow White,
+
+546
+00:37:22,782 --> 00:37:24,951
+fairest one of all.
+
+547
+00:37:24,992 --> 00:37:25,952
+No.
+
+548
+00:37:25,993 --> 00:37:28,871
+I am only bound by what is true.
+
+549
+00:37:28,913 --> 00:37:31,374
+The fairest lives.
+
+550
+00:37:31,415 --> 00:37:33,918
+She is not you.
+
+551
+00:37:53,062 --> 00:37:55,481
+♪ Seems we've hit
+a little hiccup ♪
+
+552
+00:37:56,440 --> 00:37:58,776
+♪ Someone made a little mess ♪
+
+553
+00:37:59,443 --> 00:38:02,530
+♪ And who, of course,
+is here to pick up ♪
+
+554
+00:38:02,571 --> 00:38:04,031
+♪ The pieces? ♪
+
+555
+00:38:05,241 --> 00:38:06,993
+♪ One guess ♪
+
+556
+00:38:07,034 --> 00:38:09,996
+♪ So, what's the treatment
+For a traitor? ♪
+
+557
+00:38:10,496 --> 00:38:13,791
+♪ This craven coward of a man? ♪
+
+558
+00:38:14,333 --> 00:38:15,835
+♪ Diminish him ♪
+
+559
+00:38:16,502 --> 00:38:18,796
+♪ Then finish him ♪
+
+560
+00:38:19,380 --> 00:38:21,382
+♪ Because, well ♪
+
+561
+00:38:22,550 --> 00:38:23,926
+♪ I can ♪
+
+562
+00:38:28,180 --> 00:38:30,599
+You dare to disobey me?
+
+563
+00:38:30,641 --> 00:38:32,810
+I don't deserve mercy.
+
+564
+00:38:32,852 --> 00:38:35,271
+But if there's a drop
+of it in your heart,
+
+565
+00:38:35,313 --> 00:38:36,856
+I beseech you,
+
+566
+00:38:38,024 --> 00:38:39,317
+show it to her.
+
+567
+00:38:44,864 --> 00:38:46,907
+♪ Perhaps I've been
+a bit confusing ♪
+
+568
+00:38:46,949 --> 00:38:48,701
+♪ But I've no need
+for your advice ♪
+
+569
+00:38:48,743 --> 00:38:50,828
+♪ In fact, I find
+it quite amusing ♪
+
+570
+00:38:50,870 --> 00:38:52,580
+♪ Telling me to play nice! ♪
+
+571
+00:38:52,621 --> 00:38:54,915
+♪ Well, nice will
+only get you nowhere ♪
+
+572
+00:38:54,957 --> 00:38:56,834
+♪ Nice won't get
+the doing done ♪
+
+573
+00:38:56,876 --> 00:38:59,128
+♪ Ambitious girls must
+be vicious girls ♪
+
+574
+00:38:59,170 --> 00:39:00,921
+♪ And, boy, they have fun! ♪
+
+575
+00:39:00,963 --> 00:39:03,841
+♪ This is gonna be fun! ♪
+
+576
+00:39:03,883 --> 00:39:08,512
+♪ All is fair when
+you wear the crown ♪
+
+577
+00:39:08,554 --> 00:39:11,223
+♪ To be the queen
+Means you do as you please ♪
+
+578
+00:39:12,141 --> 00:39:14,268
+♪ I could spare you ♪
+
+579
+00:39:14,310 --> 00:39:16,354
+♪ Or tear you right down ♪
+
+580
+00:39:16,395 --> 00:39:19,565
+♪ On a whim
+I can bring the world to its
+knees ♪
+
+581
+00:39:19,607 --> 00:39:21,859
+♪ Now, I could
+forgive, even forget ♪
+
+582
+00:39:21,901 --> 00:39:24,195
+♪ Let you live,
+you'd be all set ♪
+
+583
+00:39:24,236 --> 00:39:25,988
+♪ But to start, I
+don't have the heart ♪
+
+584
+00:39:26,030 --> 00:39:27,448
+♪ As you might recall ♪
+
+585
+00:39:27,490 --> 00:39:31,994
+♪ So, darling, all is fair ♪
+
+586
+00:39:32,036 --> 00:39:35,081
+♪ When you're the
+fairest of all ♪
+
+587
+00:39:39,418 --> 00:39:41,712
+♪ Now, perhaps you
+have heard that ♪
+
+588
+00:39:41,754 --> 00:39:45,132
+♪ The truest of beauty
+Will shine from inside ♪
+
+589
+00:39:45,174 --> 00:39:47,593
+♪ Well, if somebody said that ♪
+
+590
+00:39:47,635 --> 00:39:49,053
+♪ Somebody lied ♪
+
+591
+00:39:49,095 --> 00:39:51,180
+♪ It's the gold
+and the glitter ♪
+
+592
+00:39:51,222 --> 00:39:53,974
+♪ And the gems and the jewels ♪
+
+593
+00:39:54,475 --> 00:39:55,893
+♪ Beauty means power ♪
+
+594
+00:39:55,935 --> 00:40:00,606
+♪ Means I write the rules ♪
+
+595
+00:40:00,648 --> 00:40:02,858
+♪ All is fair ♪
+
+596
+00:40:02,900 --> 00:40:06,070
+♪ When you wear the crown ♪
+
+597
+00:40:06,112 --> 00:40:09,281
+-♪ So who would dare stand in my
+way? ♪ -♪ Stand in her way ♪
+
+598
+00:40:09,323 --> 00:40:11,492
+♪ Now, beware ♪
+
+599
+00:40:11,534 --> 00:40:12,952
+♪ If you let me down ♪
+
+600
+00:40:12,993 --> 00:40:15,037
+♪ Down, down, down ♪
+
+601
+00:40:15,079 --> 00:40:16,664
+-♪ In the dungeon you'll stay ♪
+-♪ In the dungeon you'll stay ♪
+
+602
+00:40:16,705 --> 00:40:18,499
+♪ But if you get the
+deed finally done ♪
+
+603
+00:40:18,541 --> 00:40:20,459
+♪ I'll proceed, second to none ♪
+
+604
+00:40:20,501 --> 00:40:22,753
+♪ With no doubt when
+I'm calling out ♪
+
+605
+00:40:22,795 --> 00:40:24,755
+-♪ "Mirror on the wall" ♪
+-♪ Mirror on the wall ♪
+
+606
+00:40:25,297 --> 00:40:28,467
+♪ "Tell me, who is fair? ♪
+
+607
+00:40:28,509 --> 00:40:31,846
+♪ Who is fair beyond compare?" ♪
+
+608
+00:40:31,887 --> 00:40:38,227
+♪ It's gonna be me
+that you declare ♪
+
+609
+00:40:38,269 --> 00:40:40,521
+Captain, search the forest.
+
+610
+00:40:41,021 --> 00:40:42,606
+Find Snow White
+
+611
+00:40:42,648 --> 00:40:46,152
+and don't come back without her.
+
+612
+00:40:49,113 --> 00:40:52,575
+♪ All is fair ♪
+
+613
+00:40:53,117 --> 00:40:56,579
+♪ When you're the fairest ♪
+
+614
+00:40:56,620 --> 00:40:58,789
+-♪ Of all ♪
+-♪ Mirror on the wall ♪
+
+615
+00:40:58,831 --> 00:41:00,749
+♪ Who's the fairest
+of them all? ♪
+
+616
+00:41:04,837 --> 00:41:06,755
+It's not fair.
+
+617
+00:41:07,506 --> 00:41:09,800
+It's the morning,
+and she's still here.
+
+618
+00:41:09,842 --> 00:41:11,802
+They'll come looking for her,
+
+619
+00:41:11,844 --> 00:41:14,096
+and when they find her...
+
+620
+00:41:15,973 --> 00:41:17,850
+What do you have
+to say about that?
+
+621
+00:41:17,892 --> 00:41:20,561
+- Now, Grumpy, you know Dopey
+doesn't talk. -
+
+622
+00:41:20,603 --> 00:41:21,687
+Because he's a dope!
+
+623
+00:41:21,729 --> 00:41:23,731
+Just because his name is Dopey
+
+624
+00:41:23,772 --> 00:41:26,233
+doesn't mean he's
+actually a dope.
+
+625
+00:41:26,275 --> 00:41:28,402
+Of course that's the reason.
+
+626
+00:41:28,444 --> 00:41:31,530
+Same as how you're called Happy
+because you're happy.
+
+627
+00:41:31,572 --> 00:41:34,533
+And I'm called Grumpy
+because I'm... I'm...
+
+628
+00:41:35,326 --> 00:41:36,619
+misunderstood.
+
+629
+00:41:38,996 --> 00:41:40,331
+Ow!
+
+630
+00:41:40,372 --> 00:41:41,749
+Shish kebabs!
+
+631
+00:41:41,790 --> 00:41:44,668
+Huh?
+
+632
+00:41:45,836 --> 00:41:47,171
+Here you go.
+
+633
+00:41:47,213 --> 00:41:48,589
+Hey!
+
+634
+00:41:48,631 --> 00:41:51,300
+Guys, let's all just
+try to be friends.
+
+635
+00:41:54,053 --> 00:41:55,679
+Ow. Stop.
+
+636
+00:41:56,514 --> 00:41:58,557
+Hey! Yippee ki-yay!
+
+637
+00:42:00,643 --> 00:42:02,311
+-You're toast, mister!
+-Aha!
+
+638
+00:42:04,438 --> 00:42:05,314
+Come here!
+
+639
+00:42:05,356 --> 00:42:06,649
+Settle down.
+
+640
+00:42:07,441 --> 00:42:09,109
+I'm gonna
+get your long toe!
+
+641
+00:42:09,151 --> 00:42:10,569
+Grumpy, that tickles!
+
+642
+00:42:11,862 --> 00:42:13,322
+Oh...
+
+643
+00:42:13,364 --> 00:42:14,949
+- Oh, my foot!
+- Huh?
+
+644
+00:42:18,827 --> 00:42:19,787
+Oh, no!
+
+645
+00:42:19,828 --> 00:42:22,039
+Pepper!
+
+646
+00:42:22,081 --> 00:42:24,500
+He's gonna blow.
+
+647
+00:42:24,542 --> 00:42:25,543
+Achoo!
+
+648
+00:42:36,595 --> 00:42:37,763
+Dopey,
+
+649
+00:42:37,805 --> 00:42:39,515
+breakfast is supposed
+to go in your mouth.
+
+650
+00:42:40,140 --> 00:42:42,101
+Not on your head!
+
+651
+00:42:43,269 --> 00:42:44,812
+Isn't life gruel?
+
+652
+00:42:44,853 --> 00:42:46,355
+You get it? Gruel!
+
+653
+00:42:59,577 --> 00:43:01,161
+Are you all right?
+
+654
+00:43:04,873 --> 00:43:06,584
+Makes you want to run and hide.
+
+655
+00:43:11,672 --> 00:43:13,340
+Are you afraid to speak?
+
+656
+00:43:16,719 --> 00:43:17,720
+Oh.
+
+657
+00:43:20,431 --> 00:43:22,850
+Well, then, maybe we can start
+with something small.
+
+658
+00:43:22,891 --> 00:43:25,644
+When I was a little girl,
+my mother taught me how to
+whistle.
+
+659
+00:43:25,686 --> 00:43:29,273
+So, even when I'm afraid to
+speak, I whistle.
+
+660
+00:43:29,315 --> 00:43:31,567
+Because when you whistle,
+it's your heart singing.
+
+661
+00:43:31,609 --> 00:43:32,610
+And that voice,
+
+662
+00:43:33,527 --> 00:43:35,738
+the one that's
+hidden in your heart,
+
+663
+00:43:35,779 --> 00:43:37,031
+can be heard.
+
+664
+00:43:42,369 --> 00:43:44,163
+See? Now you try.
+
+665
+00:43:52,254 --> 00:43:55,966
+Well, just enough
+to make a candle flicker.
+
+666
+00:43:56,008 --> 00:43:57,009
+Not go out.
+
+667
+00:44:15,819 --> 00:44:17,071
+You did it.
+
+668
+00:44:18,906 --> 00:44:20,366
+I knew you could.
+
+669
+00:44:21,992 --> 00:44:22,993
+Come on.
+
+670
+00:44:25,204 --> 00:44:27,164
+Hey! Come here.
+
+671
+00:44:28,415 --> 00:44:29,708
+Give it back!
+
+672
+00:44:30,626 --> 00:44:32,836
+I got it.
+
+673
+00:44:37,299 --> 00:44:40,427
+What's that divine
+and ravishing noise?
+
+674
+00:44:41,303 --> 00:44:43,305
+Did a songbird come through a
+window?
+
+675
+00:44:43,347 --> 00:44:44,723
+It's Dopey.
+
+676
+00:44:44,765 --> 00:44:46,517
+He sounds
+like a baby angel.
+
+677
+00:44:46,558 --> 00:44:47,768
+It's a trick.
+
+678
+00:44:47,810 --> 00:44:48,727
+It's not a trick.
+
+679
+00:44:49,269 --> 00:44:51,105
+How are you doing that?
+
+680
+00:44:51,146 --> 00:44:52,856
+Well, you put your lips
+together,
+
+681
+00:44:52,898 --> 00:44:55,567
+place your tongue behind your
+teeth and whistle.
+
+682
+00:44:55,609 --> 00:44:58,696
+That's easy.
+
+683
+00:45:04,910 --> 00:45:07,579
+Is this normal,
+or just something you do among
+friends?
+
+684
+00:45:07,621 --> 00:45:08,872
+We're not friends.
+
+685
+00:45:08,914 --> 00:45:11,417
+275 years is a
+long time to argue.
+
+686
+00:45:11,458 --> 00:45:13,085
+274.
+
+687
+00:45:13,127 --> 00:45:14,128
+Leave me out of it.
+
+688
+00:45:14,169 --> 00:45:16,588
+-I'm the only sensible one here.
+-Oh.
+
+689
+00:45:16,630 --> 00:45:18,882
+And you feel like
+they're not listening to sense?
+
+690
+00:45:18,924 --> 00:45:20,050
+Correct.
+
+691
+00:45:20,092 --> 00:45:21,844
+I take your point, Mr. Grumpy.
+
+692
+00:45:21,885 --> 00:45:24,012
+You... Wait.
+
+693
+00:45:25,931 --> 00:45:27,015
+What?
+
+694
+00:45:27,057 --> 00:45:29,143
+Well, it seems to me
+that everyone here
+
+695
+00:45:29,184 --> 00:45:31,562
+could do a much better job
+at listening to one another.
+
+696
+00:45:42,197 --> 00:45:43,949
+I was thinking the same thing.
+
+697
+00:45:43,991 --> 00:45:45,451
+Hey.
+
+698
+00:45:45,492 --> 00:45:47,161
+Uh, Miss White,
+I wouldn't look in there if I...
+
+699
+00:45:47,202 --> 00:45:49,163
+She's really making herself at
+home.
+
+700
+00:45:49,204 --> 00:45:50,664
+I don't remember those.
+
+701
+00:45:50,706 --> 00:45:53,208
+Now you wash the dishes.
+
+702
+00:45:53,834 --> 00:45:55,794
+You tidy up the room.
+
+703
+00:45:55,836 --> 00:45:57,463
+-Okay.
+-Come on.
+
+704
+00:45:57,504 --> 00:46:00,257
+You clean those cobwebs.
+
+705
+00:46:00,299 --> 00:46:02,676
+And he'll use
+
+706
+00:46:02,718 --> 00:46:04,052
+the broom.
+
+707
+00:46:04,094 --> 00:46:05,345
+Me?
+
+708
+00:46:07,264 --> 00:46:10,017
+♪ Whistle while you work ♪
+
+709
+00:46:12,853 --> 00:46:15,564
+♪ And cheerfully together ♪
+
+710
+00:46:15,606 --> 00:46:18,525
+♪ We can tidy up the place ♪
+
+711
+00:46:22,112 --> 00:46:25,365
+♪ So hum a merry tune ♪
+
+712
+00:46:28,035 --> 00:46:30,454
+♪ It won't take long
+when there's a song ♪
+
+713
+00:46:30,496 --> 00:46:32,080
+♪ To help you set the pace ♪
+
+714
+00:46:37,294 --> 00:46:39,546
+♪ And as you sweep the floor ♪
+
+715
+00:46:39,588 --> 00:46:41,507
+♪ What used to be a bore ♪
+
+716
+00:46:41,548 --> 00:46:43,634
+♪ Will feel just like a game ♪
+
+717
+00:46:43,675 --> 00:46:46,595
+♪ And not the same old chore
+It was before ♪
+
+718
+00:46:46,637 --> 00:46:48,263
+♪ Whistle while you work ♪
+
+719
+00:46:48,806 --> 00:46:50,766
+You'll get it.
+
+720
+00:46:50,808 --> 00:46:53,352
+♪ When we're a team
+The house will gleam ♪
+
+721
+00:46:53,393 --> 00:46:55,103
+♪ So whistle while you work ♪
+
+722
+00:46:55,646 --> 00:46:57,189
+♪ Whistle while you work ♪
+
+723
+00:46:59,817 --> 00:47:01,777
+♪ It's easy to get through it ♪
+
+724
+00:47:01,819 --> 00:47:04,279
+♪ When we do it hand in hand ♪
+
+725
+00:47:04,321 --> 00:47:06,448
+♪ So catch that merry tune ♪
+
+726
+00:47:08,450 --> 00:47:09,827
+I'll take it!
+
+727
+00:47:09,868 --> 00:47:12,079
+♪ When work is fun,
+the work gets done ♪
+
+728
+00:47:12,120 --> 00:47:13,914
+♪ In half the time you planned ♪
+
+729
+00:47:13,956 --> 00:47:16,542
+♪ Wait! I think
+that brush is mine ♪
+
+730
+00:47:16,583 --> 00:47:18,794
+♪ You shoulda hung a sign ♪
+
+731
+00:47:18,836 --> 00:47:21,046
+♪ If you don't hush
+I'll take this brush ♪
+
+732
+00:47:21,088 --> 00:47:23,465
+♪ And shove it where
+the sun don't shine ♪
+
+733
+00:47:23,507 --> 00:47:25,342
+♪ Whistle while you work ♪
+
+734
+00:47:27,678 --> 00:47:29,888
+♪ Your bickering
+won't fix a thing ♪
+
+735
+00:47:29,930 --> 00:47:31,849
+♪ So, whistle while you work ♪
+
+736
+00:47:58,375 --> 00:48:01,962
+♪ It's easy to get through it
+When we do it hand in hand ♪
+
+737
+00:48:02,004 --> 00:48:03,088
+Look at Dopey!
+
+738
+00:48:03,130 --> 00:48:04,840
+♪ Whistle while you work ♪
+
+739
+00:48:07,301 --> 00:48:09,219
+♪ We've scrubbed
+the house together ♪
+
+740
+00:48:09,261 --> 00:48:11,638
+♪ Now it's clean
+as clean can be ♪
+
+741
+00:48:11,680 --> 00:48:13,807
+♪ So, hum a merry tune ♪
+
+742
+00:48:16,018 --> 00:48:18,186
+♪ This grimy group
+became a troupe ♪
+
+743
+00:48:18,228 --> 00:48:20,063
+♪ That feels like family ♪
+
+744
+00:48:20,105 --> 00:48:22,482
+♪ What used to be a mess ♪
+
+745
+00:48:22,524 --> 00:48:24,359
+♪ That lived at this address ♪
+
+746
+00:48:24,401 --> 00:48:27,029
+♪ Is now clean as a
+whistle just from ♪
+
+747
+00:48:27,070 --> 00:48:29,573
+♪ Whistlin' sounds
+of happiness ♪
+
+748
+00:48:34,703 --> 00:48:37,205
+♪ Whistle while you work ♪
+
+749
+00:48:39,791 --> 00:48:41,835
+♪ When work is fun,
+the work gets done ♪
+
+750
+00:48:41,877 --> 00:48:44,004
+♪ It's mighty fine
+when we combine ♪
+
+751
+00:48:44,046 --> 00:48:46,089
+♪ It won't take long
+when there's a song ♪
+
+752
+00:48:46,131 --> 00:48:50,636
+♪ So whistle while you work ♪
+
+753
+00:48:55,307 --> 00:48:57,601
+I forgot getting along
+could be so much fun.
+
+754
+00:48:57,643 --> 00:48:59,686
+I forgot we had an oven in here.
+
+755
+00:48:59,728 --> 00:49:02,522
+Well, when I was a little girl,
+every day was like this.
+
+756
+00:49:02,564 --> 00:49:03,815
+Every day?
+
+757
+00:49:03,857 --> 00:49:05,150
+Every day.
+
+758
+00:49:07,861 --> 00:49:09,404
+When my father was king.
+
+759
+00:49:09,988 --> 00:49:11,239
+Oh.
+
+760
+00:49:12,032 --> 00:49:15,077
+The Huntsman said
+the queen lied about my father.
+
+761
+00:49:15,118 --> 00:49:16,703
+She lied about everything.
+
+762
+00:49:17,663 --> 00:49:19,247
+What if he's still alive?
+
+763
+00:49:20,916 --> 00:49:22,334
+I have to find him.
+
+764
+00:49:24,044 --> 00:49:25,921
+You said that there were bandits
+in the forest
+
+765
+00:49:25,963 --> 00:49:27,422
+who claimed to fight
+in the king's name.
+
+766
+00:49:27,464 --> 00:49:28,507
+Human criminals.
+
+767
+00:49:28,548 --> 00:49:30,425
+Those rebels are
+nothing but thieves.
+
+768
+00:49:30,467 --> 00:49:32,386
+They're actually
+a band of erstwhile actors
+
+769
+00:49:32,427 --> 00:49:34,388
+whose sustenance
+was made unstable
+
+770
+00:49:34,429 --> 00:49:36,556
+by the queen's greedy
+economic policies
+
+771
+00:49:36,598 --> 00:49:38,266
+which forced them
+into a liminal space
+
+772
+00:49:38,308 --> 00:49:40,227
+where ethics and
+motives are ill-defined.
+
+773
+00:49:41,353 --> 00:49:42,354
+Well, where are they?
+
+774
+00:49:43,021 --> 00:49:45,607
+If they know the truth about my
+father, I need to find them.
+
+775
+00:49:45,649 --> 00:49:47,150
+Oh, no. I advise against it.
+
+776
+00:49:47,192 --> 00:49:48,527
+It's too dangerous.
+
+777
+00:49:48,568 --> 00:49:49,611
+Stay with me.
+
+778
+00:49:51,196 --> 00:49:52,948
+I mean, us.
+
+779
+00:49:52,990 --> 00:49:56,201
+Yeah. You barely got away
+from the queen the last time.
+
+780
+00:49:56,243 --> 00:49:57,244
+Gesundheit.
+
+781
+00:49:57,744 --> 00:50:00,038
+But this is what I have to do.
+
+782
+00:50:00,080 --> 00:50:02,290
+Besides, Grumpy's right.
+
+783
+00:50:02,332 --> 00:50:05,377
+The longer I stay here with you,
+the more danger I put you in.
+
+784
+00:50:05,419 --> 00:50:07,004
+At last.
+
+785
+00:50:08,255 --> 00:50:09,548
+-Goodbye.
+-Grumpy!
+
+786
+00:50:09,589 --> 00:50:10,590
+No.
+
+787
+00:50:11,258 --> 00:50:12,926
+It's time for me to stop hiding.
+
+788
+00:50:12,968 --> 00:50:15,262
+Thank you all
+for showing me such kindness.
+
+789
+00:50:15,303 --> 00:50:16,304
+No, wait a minute.
+
+790
+00:50:16,346 --> 00:50:17,597
+Even you, Grumpy.
+
+791
+00:50:18,348 --> 00:50:19,683
+Now,
+
+792
+00:50:19,725 --> 00:50:21,226
+can you point me in
+the right direction?
+
+793
+00:50:22,310 --> 00:50:24,479
+We're late for work!
+
+794
+00:50:24,521 --> 00:50:25,647
+Come on, everybody.
+I need you to...
+
+795
+00:50:25,689 --> 00:50:27,274
+I'll get the snacks.
+
+796
+00:50:27,315 --> 00:50:29,151
+Come on, Sleepy. Hello?
+
+797
+00:51:41,264 --> 00:51:43,141
+Don't say a word.
+
+798
+00:51:43,767 --> 00:51:44,768
+You.
+
+799
+00:51:45,602 --> 00:51:48,021
+If we go this way,
+we'll link up with the other
+riders.
+
+800
+00:51:52,651 --> 00:51:54,945
+And when I told you
+to come see what it was like out
+here,
+
+801
+00:51:55,487 --> 00:51:57,280
+didn't expect you to bring
+half the palace guards with you.
+
+802
+00:51:57,322 --> 00:51:59,157
+I didn't exactly invite them.
+
+803
+00:51:59,658 --> 00:52:01,076
+I had no choice but to run.
+
+804
+00:52:01,743 --> 00:52:03,203
+The queen wants me dead.
+
+805
+00:52:06,998 --> 00:52:07,999
+Come on.
+
+806
+00:52:09,417 --> 00:52:11,044
+I'm actually looking
+for my father.
+
+807
+00:52:11,086 --> 00:52:13,130
+I was hoping you might
+be able to help me.
+
+808
+00:52:13,171 --> 00:52:15,549
+You're loyal to
+the one true king.
+
+809
+00:52:17,926 --> 00:52:18,927
+Right.
+
+810
+00:52:19,719 --> 00:52:21,221
+Absolutely.
+
+811
+00:52:21,263 --> 00:52:22,264
+We, uh...
+
+812
+00:52:23,014 --> 00:52:25,016
+We hear rumors, whispers.
+
+813
+00:52:25,892 --> 00:52:29,187
+Some people say he was taken
+prisoner in the Southern
+Kingdom, but...
+
+814
+00:52:29,229 --> 00:52:31,064
+You have no idea where he is.
+
+815
+00:52:31,898 --> 00:52:33,233
+I'm so sorry to disappoint.
+
+816
+00:52:34,109 --> 00:52:36,444
+You must have mistaken me
+for a knight in shining armor.
+
+817
+00:52:37,571 --> 00:52:39,739
+I don't think anyone's
+making that mistake.
+
+818
+00:52:40,323 --> 00:52:42,325
+I was hoping you
+might know something.
+
+819
+00:52:42,367 --> 00:52:43,368
+Oh, of course.
+
+820
+00:52:44,411 --> 00:52:46,705
+Princesses are always waiting
+for a prince to show up or a
+king to come back.
+
+821
+00:52:46,746 --> 00:52:51,126
+My father is the only person who
+can restore this kingdom to what
+it once was.
+
+822
+00:52:51,168 --> 00:52:53,044
+A little late for
+that, I'm afraid.
+
+823
+00:52:53,086 --> 00:52:55,589
+Obviously, you've forgotten
+how things used to be,
+
+824
+00:52:55,630 --> 00:52:58,425
+when people were kind and fair.
+
+825
+00:53:00,302 --> 00:53:01,511
+I wish I had time
+for things like
+
+826
+00:53:01,553 --> 00:53:03,555
+kindness and fairness.
+
+827
+00:53:04,931 --> 00:53:06,308
+Only problem is...
+
+828
+00:53:06,349 --> 00:53:08,268
+♪ Times are lookin' bleak ♪
+
+829
+00:53:08,310 --> 00:53:10,770
+♪ So, Princess, take a peek ♪
+
+830
+00:53:10,812 --> 00:53:14,024
+♪ See, every day
+it's sink or swim ♪
+
+831
+00:53:15,567 --> 00:53:16,818
+♪ Famine's on the rise ♪
+
+832
+00:53:16,860 --> 00:53:19,154
+♪ With vultures
+circling the skies ♪
+
+833
+00:53:19,196 --> 00:53:21,948
+♪ And prospects
+Well, they're rather grim ♪
+
+834
+00:53:22,449 --> 00:53:24,284
+♪ Let me break you the news ♪
+
+835
+00:53:24,326 --> 00:53:26,328
+♪ The odds can't be beaten ♪
+
+836
+00:53:26,369 --> 00:53:27,746
+♪ And a man's gotta choose ♪
+
+837
+00:53:27,787 --> 00:53:29,915
+♪ Will he eat or get eaten? ♪
+
+838
+00:53:29,956 --> 00:53:31,499
+♪ Does that dampen your day? ♪
+
+839
+00:53:31,541 --> 00:53:33,627
+♪ Do the facts make you frown? ♪
+
+840
+00:53:33,668 --> 00:53:35,378
+♪ Wakin' up to the real world ♪
+
+841
+00:53:35,420 --> 00:53:37,255
+♪ Is bringin' you down? ♪
+
+842
+00:53:38,340 --> 00:53:43,345
+♪ Well, that sounds an awful lot
+Like princess problems ♪
+
+843
+00:53:43,386 --> 00:53:46,389
+♪ Fin'lly learnin'
+that life's not fair ♪
+
+844
+00:53:46,431 --> 00:53:50,477
+♪ Seems to me you got
+Some princess problems ♪
+
+845
+00:53:50,518 --> 00:53:53,271
+♪ Ain't it crummy
+When folks won't share? ♪
+
+846
+00:53:53,313 --> 00:53:56,691
+♪ I could try being "kind"
+Or whatever you said ♪
+
+847
+00:53:56,733 --> 00:54:00,111
+♪ It's just that I'm partial
+To not being dead ♪
+
+848
+00:54:00,153 --> 00:54:02,322
+♪ So I'm stickin' to my plan ♪
+
+849
+00:54:02,364 --> 00:54:03,990
+♪ Of grabbin' all I can ♪
+
+850
+00:54:04,032 --> 00:54:06,910
+♪ 'Stead of living
+in a fantasy ♪
+
+851
+00:54:06,952 --> 00:54:11,957
+♪ See your princess problems
+Don't apply to me ♪
+
+852
+00:54:11,998 --> 00:54:14,960
+So you've moved
+on from potatoes?
+
+853
+00:54:15,001 --> 00:54:16,503
+I have many talents.
+
+854
+00:54:16,544 --> 00:54:18,296
+♪ Charming speech,
+but are you done? ♪
+
+855
+00:54:18,338 --> 00:54:20,507
+♪ "None for all
+and all for none" ♪
+
+856
+00:54:20,548 --> 00:54:23,218
+♪ Such a gift of
+hope you give! ♪
+
+857
+00:54:23,260 --> 00:54:25,553
+♪ Yeah, well, hope's
+in short supply ♪
+
+858
+00:54:25,595 --> 00:54:27,722
+♪ But, still, we have to try ♪
+
+859
+00:54:27,764 --> 00:54:31,101
+♪ Well, how about
+we try to live? ♪
+
+860
+00:54:31,142 --> 00:54:32,727
+♪ So that's it? You give in? ♪
+
+861
+00:54:32,769 --> 00:54:34,688
+♪ Nah, you begin to get wise ♪
+
+862
+00:54:34,729 --> 00:54:38,650
+♪ 'Cause you can't fix the world
+Baking apple pies ♪
+
+863
+00:54:39,359 --> 00:54:43,863
+♪ Yeah, we got a classic case
+Of princess problems ♪
+
+864
+00:54:44,531 --> 00:54:47,617
+♪ The castle's cozy
+But it's cold outside ♪
+
+865
+00:54:47,659 --> 00:54:51,621
+♪ Sure, just write 'em off
+As princess problems ♪
+
+866
+00:54:51,663 --> 00:54:54,666
+♪ And stayin' selfish
+is justified ♪
+
+867
+00:54:54,708 --> 00:54:56,459
+♪ That was harsh,
+but I'm proud ♪
+
+868
+00:54:56,501 --> 00:54:57,877
+♪ Look at you, gettin' mean ♪
+
+869
+00:54:57,919 --> 00:54:59,879
+♪ Look, the kingdom needs help ♪
+
+870
+00:54:59,921 --> 00:55:01,631
+♪ You should go tell the queen ♪
+
+871
+00:55:02,465 --> 00:55:04,342
+♪ But I'm stayin' on the run ♪
+
+872
+00:55:04,384 --> 00:55:06,428
+♪ Lookin' out for number one ♪
+
+873
+00:55:06,469 --> 00:55:08,805
+♪ And that's the
+way it's gonna be ♪
+
+874
+00:55:09,306 --> 00:55:13,685
+♪ 'Cause your princess problems
+Don't apply to me ♪
+
+875
+00:55:13,727 --> 00:55:15,478
+Do not move, milady.
+
+876
+00:55:15,520 --> 00:55:18,982
+You're in the presence of the
+rebel Quigg, master of the
+crossbow.
+
+877
+00:55:19,024 --> 00:55:20,150
+Hands up!
+
+878
+00:55:20,191 --> 00:55:22,569
+Step away from our captain.
+
+879
+00:55:22,610 --> 00:55:24,237
+And no harm will come to you.
+
+880
+00:55:30,452 --> 00:55:32,412
+You don't have a crossbow.
+
+881
+00:55:33,997 --> 00:55:35,373
+- It was stolen.
+- It's okay.
+
+882
+00:55:35,874 --> 00:55:37,250
+She's with me.
+
+883
+00:55:37,959 --> 00:55:38,960
+Captain?
+
+884
+00:55:39,544 --> 00:55:40,712
+And my associates.
+
+885
+00:55:41,880 --> 00:55:43,006
+Loyal to the king?
+
+886
+00:55:44,341 --> 00:55:45,800
+You're just a common criminal.
+
+887
+00:55:45,842 --> 00:55:47,510
+My name's Jonathan, Princess.
+
+888
+00:55:50,805 --> 00:55:52,182
+Not "Jonathan Princess."
+
+889
+00:55:52,599 --> 00:55:53,600
+Just "Jonathan..."
+
+890
+00:55:56,019 --> 00:55:57,020
+Princess.
+
+891
+00:55:58,188 --> 00:55:59,189
+Look...
+
+892
+00:56:00,106 --> 00:56:02,859
+♪ You seem a lovely gal ♪
+
+893
+00:56:02,901 --> 00:56:04,986
+♪ With your royal rationale ♪
+
+894
+00:56:05,737 --> 00:56:11,242
+♪ But out here in reality ♪
+
+895
+00:56:11,284 --> 00:56:14,037
+♪ See, your princess problems ♪
+
+896
+00:56:14,079 --> 00:56:15,497
+♪ Don't ♪
+
+897
+00:56:15,538 --> 00:56:17,374
+♪ Apply ♪
+
+898
+00:56:17,415 --> 00:56:21,086
+♪ To me ♪
+
+899
+00:56:21,127 --> 00:56:23,004
+♪ They don't apply to ♪
+
+900
+00:56:24,047 --> 00:56:25,131
+♪ Me ♪
+
+901
+00:56:29,636 --> 00:56:31,471
+Whoa!
+
+902
+00:56:31,513 --> 00:56:33,056
+It's the palace guards.
+
+903
+00:56:33,098 --> 00:56:34,682
+Two soldiers for
+every one of us.
+
+904
+00:56:34,724 --> 00:56:37,310
+We are searching
+for the Princess Snow White.
+
+905
+00:56:37,352 --> 00:56:38,520
+You have to run, Princess.
+
+906
+00:56:38,561 --> 00:56:39,729
+What about all of you?
+
+907
+00:56:39,771 --> 00:56:41,564
+Don't worry about us.
+We'll hold them off.
+
+908
+00:56:41,606 --> 00:56:43,650
+-I'll fight with you.
+-I'm not asking.
+
+909
+00:56:43,691 --> 00:56:44,818
+I'm making it a fair fight.
+
+910
+00:56:44,859 --> 00:56:47,070
+Yeah, the thing is,
+I don't fight fair.
+
+911
+00:56:49,697 --> 00:56:50,740
+Don't shoot!
+
+912
+00:56:51,324 --> 00:56:53,118
+We can tell you where
+the princess is.
+
+913
+00:57:06,756 --> 00:57:08,174
+Now.
+
+914
+00:57:23,273 --> 00:57:24,274
+I can't leave.
+
+915
+00:57:25,358 --> 00:57:26,359
+I'm going to need your help.
+
+916
+00:57:53,720 --> 00:57:54,971
+Last chance, bandits.
+
+917
+00:57:56,014 --> 00:57:57,640
+Tell us what you
+know of Snow White.
+
+918
+00:57:58,892 --> 00:58:00,477
+You seek Snow White?
+
+919
+00:58:01,686 --> 00:58:02,896
+I'm over here.
+
+920
+00:58:05,148 --> 00:58:06,149
+This way.
+
+921
+00:58:08,735 --> 00:58:10,195
+- Go!
+- Move!
+
+922
+00:58:11,988 --> 00:58:13,364
+Spread out!
+
+923
+00:58:35,178 --> 00:58:36,930
+Spread out. Find them.
+
+924
+00:58:36,971 --> 00:58:37,972
+Yes, sir!
+
+925
+00:58:41,226 --> 00:58:42,393
+Where's my horse?
+
+926
+00:58:51,027 --> 00:58:52,028
+Go, go.
+
+927
+00:58:53,988 --> 00:58:55,156
+You came back.
+
+928
+00:58:55,198 --> 00:58:57,617
+Someone had to solve
+your princess problem.
+
+929
+00:58:57,659 --> 00:58:58,952
+I told you I'd fight with you.
+
+930
+00:58:58,993 --> 00:59:01,329
+- I guess you meant it.
+- I guess so.
+
+931
+00:59:03,081 --> 00:59:04,415
+You continue to impress me.
+
+932
+00:59:04,457 --> 00:59:06,209
+Oh, thank you.
+
+933
+00:59:06,251 --> 00:59:09,921
+Compliment like that coming from
+a criminal mastermind like
+yourself.
+
+934
+00:59:13,591 --> 00:59:14,842
+Make sure we lost them.
+
+935
+00:59:20,265 --> 00:59:21,266
+The people,
+
+936
+00:59:21,766 --> 00:59:23,434
+they've forgotten
+how it used to be.
+
+937
+00:59:24,310 --> 00:59:26,437
+And they despise the queen.
+But they're afraid.
+
+938
+00:59:28,773 --> 00:59:30,316
+That's why we fight
+in your father's name.
+
+939
+00:59:33,278 --> 00:59:34,737
+Your parents weren't
+afraid of anything.
+
+940
+00:59:36,698 --> 00:59:38,408
+They made us all
+feel a little braver.
+
+941
+00:59:42,662 --> 00:59:43,871
+They gave everyone hope.
+
+942
+00:59:56,217 --> 00:59:58,303
+Now, we'll cut
+through to the glen a mile
+south.
+
+943
+00:59:58,344 --> 01:00:00,179
+We need to cover our tracks.
+
+944
+01:00:15,361 --> 01:00:17,280
+- Jonathan?
+-  -What was that?
+
+945
+01:00:17,322 --> 01:00:18,656
+Oh, no.
+
+946
+01:00:18,698 --> 01:00:21,034
+I think we have a bit of a
+problem, Princess.
+
+947
+01:00:21,409 --> 01:00:22,827
+He's
+going to need a doctor.
+
+948
+01:00:23,536 --> 01:00:26,706
+Doc is more of a sobriquet
+rather than a technical title
+
+949
+01:00:26,748 --> 01:00:28,499
+as my true expertise lies
+
+950
+01:00:28,541 --> 01:00:31,711
+in the study of igneous,
+sedimentary, and metamorphic
+granules.
+
+951
+01:00:32,211 --> 01:00:34,422
+You know, rocks.
+
+952
+01:00:34,464 --> 01:00:35,757
+Oh!
+
+953
+01:00:36,758 --> 01:00:38,676
+I am the rebel Quigg,
+
+954
+01:00:38,718 --> 01:00:40,470
+master of the crossbow,
+
+955
+01:00:40,511 --> 01:00:42,055
+and I'm ordering
+you to save him.
+
+956
+01:00:42,096 --> 01:00:44,849
+- Oh, we haven't even been
+introduced yet. -
+
+957
+01:00:44,891 --> 01:00:46,809
+-In alphabetical order...
+-Doc, please, we don't have
+time.
+
+958
+01:00:46,851 --> 01:00:48,311
+He's badly injured.
+You have to help.
+
+959
+01:00:48,353 --> 01:00:49,771
+But they're bandits!
+
+960
+01:00:49,812 --> 01:00:51,731
+-What are you gonna do about it?
+-Come here, you.
+
+961
+01:00:54,651 --> 01:00:56,903
+This is exactly how the queen
+would want us to behave.
+
+962
+01:00:57,403 --> 01:00:58,529
+Fighting with each other,
+
+963
+01:00:59,280 --> 01:01:02,158
+distrusting each other.
+This is how she wins!
+
+964
+01:01:02,909 --> 01:01:06,287
+She's poisoned everyone into
+believing that it's everyone for
+themselves.
+
+965
+01:01:08,706 --> 01:01:10,708
+But if...
+
+966
+01:01:11,668 --> 01:01:13,836
+we can give up
+our meager scraps,
+
+967
+01:01:14,879 --> 01:01:17,548
+we will inherit
+what was meant for all of us.
+
+968
+01:01:19,217 --> 01:01:21,719
+And it's more than
+any of us can imagine.
+
+969
+01:01:22,887 --> 01:01:23,888
+It just...
+
+970
+01:01:25,098 --> 01:01:27,642
+requires faith in each other.
+
+971
+01:01:28,184 --> 01:01:29,185
+Mmm.
+
+972
+01:01:31,187 --> 01:01:32,355
+Now help him.
+
+973
+01:01:34,482 --> 01:01:35,650
+Please.
+
+974
+01:01:37,819 --> 01:01:38,653
+Hmm.
+
+975
+01:01:42,198 --> 01:01:43,366
+Bring him inside.
+
+976
+01:01:46,202 --> 01:01:47,203
+Hot milk.
+
+977
+01:01:49,247 --> 01:01:50,707
+It helps me sleep.
+
+978
+01:01:50,748 --> 01:01:51,749
+Thank you.
+
+979
+01:01:59,173 --> 01:02:02,135
+I used the blast furnace
+to cut through the bedrock,
+
+980
+01:02:02,176 --> 01:02:04,137
+then drilled to
+the fissure core,
+
+981
+01:02:04,178 --> 01:02:06,139
+added a poultice or two.
+
+982
+01:02:06,180 --> 01:02:08,558
+A dose of acetum saturninum,
+
+983
+01:02:08,599 --> 01:02:10,893
+acid of sulfur dulcified.
+
+984
+01:02:10,935 --> 01:02:13,646
+Uh...
+
+985
+01:02:20,778 --> 01:02:22,196
+-Oh, oh!
+-That was...
+
+986
+01:02:22,238 --> 01:02:23,114
+Huh.
+
+987
+01:02:25,074 --> 01:02:26,701
+- ...unpleasant.
+- You did it, Doc.
+
+988
+01:02:26,743 --> 01:02:27,785
+I thought he was dead.
+
+989
+01:02:31,456 --> 01:02:34,000
+Hey.
+
+990
+01:02:38,755 --> 01:02:40,757
+-Thank you, Doc.
+-Of course.
+
+991
+01:02:40,798 --> 01:02:44,177
+I would do anything
+for Snow White's special friend.
+
+992
+01:02:44,218 --> 01:02:46,387
+- Ooh! You got a special
+friend. -Oh, no.
+
+993
+01:02:46,429 --> 01:02:48,181
+- No.
+- Oh.
+
+994
+01:02:48,222 --> 01:02:49,724
+- No. No.
+- What?
+
+995
+01:02:49,766 --> 01:02:51,517
+- I would have brought anyone
+here to... - Exactly.
+
+996
+01:02:51,559 --> 01:02:52,894
+Run-of-the-mill kindness.
+
+997
+01:02:52,935 --> 01:02:55,980
+It's nothing to do with you.
+
+998
+01:02:57,607 --> 01:03:00,443
+- Awkward.
+- Oh, isn't this just wonderful?
+
+999
+01:03:00,485 --> 01:03:02,236
+You know what time
+it is, fellas?
+
+1000
+01:03:02,278 --> 01:03:04,822
+-Please, no.
+-What time is it?
+
+1001
+01:03:04,864 --> 01:03:06,783
+It's time to dance.
+
+1002
+01:03:06,824 --> 01:03:08,201
+Yeah!
+
+1003
+01:03:08,242 --> 01:03:10,369
+Ah, achoo!
+
+1004
+01:03:13,498 --> 01:03:15,082
+Yeah! Woo-hoo!
+
+1005
+01:03:15,124 --> 01:03:16,709
+Hey, hey!
+
+1006
+01:03:16,751 --> 01:03:18,252
+Hey, hey, hey!
+
+1007
+01:03:30,389 --> 01:03:31,724
+Hey!
+
+1008
+01:03:36,771 --> 01:03:38,147
+You want to play cards?
+
+1009
+01:03:38,189 --> 01:03:39,232
+No, thank you.
+
+1010
+01:03:39,273 --> 01:03:40,274
+What about you?
+Do you wanna play?
+
+1011
+01:03:41,400 --> 01:03:43,611
+You and Maple are fine dancers.
+
+1012
+01:03:43,653 --> 01:03:44,821
+Ah.
+
+1013
+01:03:44,862 --> 01:03:46,405
+We're just friends.
+
+1014
+01:03:46,447 --> 01:03:47,573
+Right.
+
+1015
+01:03:47,615 --> 01:03:48,658
+You know, like you and Jonathan.
+
+1016
+01:03:50,743 --> 01:03:53,746
+I'm pretty sure
+Jonathan only cares about
+himself.
+
+1017
+01:03:55,581 --> 01:03:56,999
+Is that why he took
+an arrow for ya?
+
+1018
+01:03:57,708 --> 01:03:58,751
+What?
+
+1019
+01:03:58,793 --> 01:04:00,127
+We all saw it.
+
+1020
+01:04:00,795 --> 01:04:02,547
+That selfish, no-good thief?
+
+1021
+01:04:04,465 --> 01:04:06,092
+He saved your life.
+
+1022
+01:04:21,065 --> 01:04:26,612
+♪ I used to think that the way
+Through the woods would be
+lonely ♪
+
+1023
+01:04:28,531 --> 01:04:30,950
+♪ Dark forest before me ♪
+
+1024
+01:04:30,992 --> 01:04:34,245
+♪ The night hangin'
+heavy above ♪
+
+1025
+01:04:36,455 --> 01:04:38,875
+♪ And the wind blows ♪
+
+1026
+01:04:38,916 --> 01:04:43,004
+♪ But now I don't
+shake in the shadows ♪
+
+1027
+01:04:43,045 --> 01:04:47,049
+♪ Maybe wherever
+this road goes ♪
+
+1028
+01:04:47,091 --> 01:04:50,011
+♪ I won't have to
+walk it alone ♪
+
+1029
+01:04:52,597 --> 01:04:56,601
+♪ 'Cause a hand meets a hand ♪
+
+1030
+01:04:56,642 --> 01:04:59,854
+♪ Like it found where to land ♪
+
+1031
+01:04:59,896 --> 01:05:04,025
+♪ And suddenly I've
+Watched the world come alive ♪
+
+1032
+01:05:04,066 --> 01:05:07,737
+♪ And now I'm lost in the view ♪
+
+1033
+01:05:08,404 --> 01:05:12,617
+♪ So I start to let go ♪
+
+1034
+01:05:12,658 --> 01:05:15,620
+♪ And give in to the glow ♪
+
+1035
+01:05:15,661 --> 01:05:17,914
+♪ Oh, I know it's naive ♪
+
+1036
+01:05:17,955 --> 01:05:19,916
+♪ But tonight I believe ♪
+
+1037
+01:05:19,957 --> 01:05:23,377
+♪ That something so
+good could come true ♪
+
+1038
+01:05:23,920 --> 01:05:27,006
+♪ And maybe it might
+have a little ♪
+
+1039
+01:05:27,048 --> 01:05:30,509
+♪ Somethin' to do ♪
+
+1040
+01:05:31,469 --> 01:05:32,511
+♪ With you ♪
+
+1041
+01:05:35,473 --> 01:05:40,478
+♪ I used to think that this
+world Would forever stay broken♪
+
+1042
+01:05:41,437 --> 01:05:42,897
+♪ Cutthroat and cruel ♪
+
+1043
+01:05:42,939 --> 01:05:45,816
+♪ Every fool had to
+fend for himself ♪
+
+1044
+01:05:46,651 --> 01:05:48,986
+♪ But who knows? ♪
+
+1045
+01:05:49,028 --> 01:05:53,240
+♪ When we're together
+the time slows ♪
+
+1046
+01:05:53,282 --> 01:05:57,119
+♪ Maybe, wherever
+this road goes ♪
+
+1047
+01:05:57,161 --> 01:06:00,289
+♪ I won't have to
+walk it alone ♪
+
+1048
+01:06:02,875 --> 01:06:05,878
+♪ 'Cause a hand meets a hand ♪
+
+1049
+01:06:06,462 --> 01:06:09,465
+♪ Something I never planned ♪
+
+1050
+01:06:09,507 --> 01:06:13,761
+♪ And suddenly I've
+Watched the world come alive ♪
+
+1051
+01:06:13,803 --> 01:06:16,597
+♪ And I just might
+like the view ♪
+
+1052
+01:06:18,307 --> 01:06:22,186
+♪ So I start to let go ♪
+
+1053
+01:06:22,228 --> 01:06:25,189
+♪ Just to see what'll grow ♪
+
+1054
+01:06:25,231 --> 01:06:27,233
+♪ And perhaps I'm naive ♪
+
+1055
+01:06:27,274 --> 01:06:29,485
+♪ But tonight I believe ♪
+
+1056
+01:06:29,527 --> 01:06:33,322
+♪ That something so
+good could come true ♪
+
+1057
+01:06:33,364 --> 01:06:36,826
+♪ And maybe it might
+have a little ♪
+
+1058
+01:06:36,867 --> 01:06:40,454
+♪ Somethin' to do ♪
+
+1059
+01:06:40,496 --> 01:06:42,206
+♪ With you ♪
+
+1060
+01:06:44,458 --> 01:06:48,212
+♪ And maybe I'm dreaming ♪
+
+1061
+01:06:48,254 --> 01:06:55,011
+♪ Well, I'd like to
+stay just like this ♪
+
+1062
+01:06:56,053 --> 01:06:58,639
+♪ But if there's a world ♪
+
+1063
+01:06:58,681 --> 01:07:01,892
+♪ Where you wake me ♪
+
+1064
+01:07:01,934 --> 01:07:06,647
+♪ Promise to wake me ♪
+
+1065
+01:07:07,231 --> 01:07:09,567
+♪ With a kiss ♪
+
+1066
+01:07:11,652 --> 01:07:15,406
+♪ A hand meets a hand ♪
+
+1067
+01:07:15,448 --> 01:07:18,701
+♪ Fin'lly somewhere to land ♪
+
+1068
+01:07:18,743 --> 01:07:21,245
+♪ Seems it's not so naive ♪
+
+1069
+01:07:21,287 --> 01:07:24,331
+♪ To begin to believe ♪
+
+1070
+01:07:24,373 --> 01:07:28,377
+♪ Something good has come true ♪
+
+1071
+01:07:29,670 --> 01:07:33,257
+♪ And maybe it might
+have a little ♪
+
+1072
+01:07:33,299 --> 01:07:36,093
+♪ Something ♪
+
+1073
+01:07:36,594 --> 01:07:41,599
+♪ It might have
+everything to do ♪
+
+1074
+01:07:42,433 --> 01:07:47,396
+♪ With you ♪
+
+1075
+01:08:05,206 --> 01:08:06,207
+-Hi.
+-Hi.
+
+1076
+01:08:06,248 --> 01:08:08,709
+Soldiers.
+
+1077
+01:08:08,751 --> 01:08:10,002
+- Oh, no.
+- We have to leave.
+
+1078
+01:08:10,044 --> 01:08:11,545
+- To protect the princess.
+- Yes, Captain.
+
+1079
+01:08:11,587 --> 01:08:13,172
+Achoo!
+
+1080
+01:08:13,214 --> 01:08:14,632
+I can't let the queen's guard
+find this place.
+
+1081
+01:08:14,673 --> 01:08:16,175
+-I'm coming with you.
+-No.
+
+1082
+01:08:16,217 --> 01:08:18,260
+It's too dangerous.
+You're the one they're looking
+for.
+
+1083
+01:08:19,095 --> 01:08:20,387
+I'll be back in two days.
+
+1084
+01:08:20,971 --> 01:08:23,766
+And together
+we'll go to the Southern Kingdom
+and...
+
+1085
+01:08:24,642 --> 01:08:25,893
+we'll find your father.
+
+1086
+01:08:28,270 --> 01:08:29,230
+Well, here.
+
+1087
+01:08:30,314 --> 01:08:31,315
+He gave this to me.
+
+1088
+01:08:32,608 --> 01:08:33,818
+Take it for luck.
+
+1089
+01:08:35,236 --> 01:08:36,821
+I can't accept this.
+
+1090
+01:08:36,862 --> 01:08:38,906
+I'm not giving it to you.
+
+1091
+01:08:38,948 --> 01:08:40,991
+I'm just giving you
+reason to return.
+
+1092
+01:08:44,161 --> 01:08:46,080
+Who fights in the
+name of the king?
+
+1093
+01:08:46,122 --> 01:08:47,248
+I!
+
+1094
+01:08:47,289 --> 01:08:48,582
+Well, come on, then.
+
+1095
+01:08:48,624 --> 01:08:50,126
+-Be safe.
+-All right. Split up.
+
+1096
+01:08:50,167 --> 01:08:51,794
+We'll lure the guards away
+from the cottage.
+
+1097
+01:08:51,836 --> 01:08:52,711
+Be careful out there!
+
+1098
+01:08:52,753 --> 01:08:54,088
+Hey, thanks for having us.
+
+1099
+01:09:07,351 --> 01:09:08,519
+Over here.
+
+1100
+01:09:10,062 --> 01:09:11,063
+This way.
+
+1101
+01:09:13,190 --> 01:09:15,025
+You're really doing
+it, Johnny boy.
+
+1102
+01:09:15,651 --> 01:09:17,194
+You're one of the good guys.
+
+1103
+01:09:17,236 --> 01:09:20,281
+Honest, steadfast, loyal.
+
+1104
+01:09:20,322 --> 01:09:21,949
+You're a...
+
+1105
+01:09:21,991 --> 01:09:22,825
+idiot.
+
+1106
+01:09:35,004 --> 01:09:36,297
+You look familiar.
+
+1107
+01:09:36,797 --> 01:09:38,507
+Oh, yeah.
+
+1108
+01:09:38,549 --> 01:09:40,384
+The lady with the good potatoes.
+
+1109
+01:09:42,469 --> 01:09:43,762
+Where is Snow White?
+
+1110
+01:09:44,388 --> 01:09:45,389
+Snow who?
+
+1111
+01:09:46,015 --> 01:09:47,308
+You're protecting her.
+
+1112
+01:09:47,349 --> 01:09:49,143
+Answer Her Majesty.
+
+1113
+01:10:07,912 --> 01:10:09,538
+Show me where you found him.
+
+1114
+01:10:09,580 --> 01:10:10,623
+In the forest,
+
+1115
+01:10:10,664 --> 01:10:13,042
+two furlongs south
+of the crossroads.
+
+1116
+01:10:13,083 --> 01:10:15,169
+I'm sure you think you got this
+licked, Your Majesty.
+
+1117
+01:10:15,211 --> 01:10:16,670
+But trust me,
+
+1118
+01:10:16,712 --> 01:10:19,131
+you don't know what
+you're up against.
+
+1119
+01:10:19,173 --> 01:10:20,549
+See, unlike you...
+
+1120
+01:10:22,051 --> 01:10:23,177
+I know her.
+
+1121
+01:10:23,219 --> 01:10:26,347
+I think you mean "knew."
+
+1122
+01:10:29,391 --> 01:10:32,102
+I think it's time
+for Snow White and I
+
+1123
+01:10:32,978 --> 01:10:34,813
+to have a little talk.
+
+1124
+01:10:46,575 --> 01:10:49,536
+♪ Banish any trace of beauty ♪
+
+1125
+01:10:51,372 --> 01:10:55,084
+♪ Age me old as mummy dust ♪
+
+1126
+01:10:57,086 --> 01:11:00,839
+♪ Do your dark,
+bewitching duty ♪
+
+1127
+01:11:01,632 --> 01:11:03,717
+♪ Sweet potion ♪
+
+1128
+01:11:05,094 --> 01:11:06,512
+♪ You must ♪
+
+1129
+01:11:20,693 --> 01:11:24,280
+♪ A voice as creaky
+as a cackle ♪
+
+1130
+01:11:24,947 --> 01:11:28,701
+♪ A hunching hag
+with wrinkled skin ♪
+
+1131
+01:11:29,576 --> 01:11:31,620
+♪ A mane of white ♪
+
+1132
+01:11:32,705 --> 01:11:34,415
+♪ A flash of fright ♪
+
+1133
+01:11:36,917 --> 01:11:38,794
+♪ My plan ♪
+
+1134
+01:11:38,836 --> 01:11:40,087
+♪ Can ♪
+
+1135
+01:11:40,921 --> 01:11:42,589
+♪ Begin ♪
+
+1136
+01:11:52,850 --> 01:11:56,645
+"Poison apple. The
+sleeping death."
+
+1137
+01:11:57,604 --> 01:11:59,023
+Hmm.
+
+1138
+01:11:59,064 --> 01:12:00,816
+"Antidote."
+
+1139
+01:12:00,858 --> 01:12:02,901
+"True love's kiss."
+
+1140
+01:12:09,074 --> 01:12:10,951
+That
+won't get you free.
+
+1141
+01:12:26,675 --> 01:12:28,802
+♪ Just one bite, juicy and red ♪
+
+1142
+01:12:28,844 --> 01:12:31,013
+♪ Then good night,
+put her to bed ♪
+
+1143
+01:12:31,055 --> 01:12:34,350
+♪ Claim your prize
+If you wanna rise, someone's
+gotta fall ♪
+
+1144
+01:12:34,391 --> 01:12:38,520
+♪ Darling, all is fair ♪
+
+1145
+01:12:39,021 --> 01:12:42,274
+♪ When you're the fairest ♪
+
+1146
+01:12:42,316 --> 01:12:46,111
+♪ Of all ♪
+
+1147
+01:12:59,625 --> 01:13:01,377
+I don't like it.
+
+1148
+01:13:01,418 --> 01:13:02,878
+It's too dangerous with the
+queen's guard out there looking
+for you.
+
+1149
+01:13:02,920 --> 01:13:04,004
+We could come with you.
+
+1150
+01:13:04,046 --> 01:13:05,381
+Do you really have to go?
+
+1151
+01:13:06,090 --> 01:13:07,966
+I need to find the
+truth about my father.
+
+1152
+01:13:08,008 --> 01:13:09,802
+If there's any
+chance he's alive...
+
+1153
+01:13:09,843 --> 01:13:12,012
+And when you find
+what you're looking for,
+
+1154
+01:13:12,054 --> 01:13:13,472
+you'll come back...
+
+1155
+01:13:14,848 --> 01:13:15,849
+right?
+
+1156
+01:13:18,102 --> 01:13:19,520
+I will.
+
+1157
+01:13:19,561 --> 01:13:20,938
+I promise.
+
+1158
+01:13:27,820 --> 01:13:28,821
+Okay.
+
+1159
+01:13:29,321 --> 01:13:31,532
+Come on, fellas. Let's go.
+
+1160
+01:14:14,783 --> 01:14:15,784
+Jonathan?
+
+1161
+01:14:20,372 --> 01:14:22,332
+I'm sorry, my dear.
+
+1162
+01:14:23,417 --> 01:14:24,960
+Did I frighten you?
+
+1163
+01:14:25,002 --> 01:14:28,046
+No, I was expecting
+someone else.
+
+1164
+01:14:30,090 --> 01:14:31,550
+Can I help you?
+
+1165
+01:14:31,592 --> 01:14:33,343
+It is I who can help you.
+
+1166
+01:14:33,927 --> 01:14:35,846
+Are you Snow White?
+
+1167
+01:14:35,888 --> 01:14:36,972
+The princess?
+
+1168
+01:14:38,557 --> 01:14:39,975
+Who did you say you were?
+
+1169
+01:14:40,017 --> 01:14:42,019
+I have come with a message.
+
+1170
+01:14:42,936 --> 01:14:44,021
+From Jonathan.
+
+1171
+01:14:44,771 --> 01:14:45,981
+From Jonathan?
+
+1172
+01:14:46,690 --> 01:14:49,318
+I'm afraid he's been captured
+by the queen.
+
+1173
+01:14:50,235 --> 01:14:52,070
+Captured? No.
+
+1174
+01:14:53,530 --> 01:14:56,158
+He gave me this necklace.
+
+1175
+01:15:05,584 --> 01:15:07,794
+He said you'd know
+what it means.
+
+1176
+01:15:13,217 --> 01:15:14,384
+I need to go to him.
+
+1177
+01:15:16,887 --> 01:15:18,555
+But what of the danger?
+
+1178
+01:15:21,350 --> 01:15:24,144
+Ah. You love him?
+
+1179
+01:15:24,186 --> 01:15:25,187
+Well,
+
+1180
+01:15:25,771 --> 01:15:28,148
+because love is so precious,
+
+1181
+01:15:29,525 --> 01:15:31,109
+I will help you.
+
+1182
+01:15:33,946 --> 01:15:34,947
+Here.
+
+1183
+01:15:35,948 --> 01:15:37,074
+Take this apple
+
+1184
+01:15:37,115 --> 01:15:39,535
+to sustain you on the road.
+
+1185
+01:15:45,123 --> 01:15:45,958
+Hey!
+
+1186
+01:15:46,625 --> 01:15:47,626
+Whoa!
+
+1187
+01:15:57,052 --> 01:15:58,554
+Snow White.
+
+1188
+01:15:58,595 --> 01:16:03,183
+I remember how generous your
+father was to his people.
+
+1189
+01:16:04,142 --> 01:16:08,689
+That's why it is an honor for me
+to return the favor to his
+daughter.
+
+1190
+01:16:08,730 --> 01:16:11,108
+I know I don't have
+much to give...
+
+1191
+01:16:12,609 --> 01:16:15,988
+but giving you this apple
+makes me feel as though
+
+1192
+01:16:16,029 --> 01:16:17,990
+his spirit is here.
+
+1193
+01:16:20,951 --> 01:16:22,244
+Come on! Hyah!
+
+1194
+01:16:29,001 --> 01:16:30,002
+Thank you.
+
+1195
+01:16:31,295 --> 01:16:32,504
+For him.
+
+1196
+01:16:33,005 --> 01:16:34,673
+For your father.
+
+1197
+01:16:37,634 --> 01:16:39,094
+Hyah! Hyah!
+
+1198
+01:16:39,136 --> 01:16:41,138
+-Go. Come on!
+-Faster!
+
+1199
+01:17:00,407 --> 01:17:01,992
+What's happening?
+
+1200
+01:17:02,993 --> 01:17:04,328
+Something's wrong.
+
+1201
+01:17:04,369 --> 01:17:06,580
+I did know your father.
+
+1202
+01:17:08,957 --> 01:17:10,876
+Quite well.
+
+1203
+01:17:12,836 --> 01:17:13,837
+What do you mean?
+
+1204
+01:17:14,421 --> 01:17:16,673
+I knew he was a fool!
+
+1205
+01:17:16,715 --> 01:17:19,426
+You. It's you.
+
+1206
+01:17:19,468 --> 01:17:23,597
+It was almost too easy for me
+to have him killed.
+
+1207
+01:17:23,639 --> 01:17:26,391
+His goodness cost
+him his throne,
+
+1208
+01:17:26,433 --> 01:17:29,436
+as it will cost you your life.
+
+1209
+01:17:30,520 --> 01:17:31,563
+So...
+
+1210
+01:17:32,314 --> 01:17:34,900
+tell me, Snow White...
+
+1211
+01:17:35,984 --> 01:17:40,739
+...who is the
+fairest one of all?
+
+1212
+01:18:30,288 --> 01:18:34,292
+Your envious heart can be at
+rest.
+
+1213
+01:18:34,334 --> 01:18:37,337
+You, my Queen,
+
+1214
+01:18:38,004 --> 01:18:40,632
+are fairest of all.
+
+1215
+01:18:51,435 --> 01:18:53,770
+All hail the queen,
+
+1216
+01:18:54,438 --> 01:18:56,356
+fairest of them all.
+
+1217
+01:20:40,043 --> 01:20:41,711
+You've
+done this every day.
+
+1218
+01:20:42,587 --> 01:20:43,588
+It hasn't moved.
+
+1219
+01:20:51,888 --> 01:20:53,348
+Forget it.
+
+1220
+01:20:56,434 --> 01:20:57,644
+I did forget.
+
+1221
+01:20:59,938 --> 01:21:01,773
+I forgot what it
+was to have courage,
+
+1222
+01:21:02,566 --> 01:21:04,025
+to have hope, but then...
+
+1223
+01:21:05,485 --> 01:21:07,028
+then I met Snow White.
+
+1224
+01:21:08,822 --> 01:21:10,115
+She fought for us.
+
+1225
+01:21:11,032 --> 01:21:12,033
+With us.
+
+1226
+01:21:13,660 --> 01:21:15,662
+When she had every
+reason to run.
+
+1227
+01:21:16,788 --> 01:21:18,415
+She never gave up on us.
+
+1228
+01:21:20,876 --> 01:21:22,043
+I am not...
+
+1229
+01:21:23,086 --> 01:21:24,546
+giving up on her.
+
+1230
+01:21:46,401 --> 01:21:48,111
+-Come on.
+-Pull harder.
+
+1231
+01:21:58,663 --> 01:22:01,499
+Listen, the queen's secret
+entrance lets out one mile
+
+1232
+01:22:01,541 --> 01:22:03,960
+from the royal stables
+where there's dozens of horses.
+
+1233
+01:22:06,254 --> 01:22:08,006
+I'll check for guards. You go.
+
+1234
+01:22:08,632 --> 01:22:09,716
+Good luck.
+
+1235
+01:22:15,221 --> 01:22:16,222
+Whoa.
+
+1236
+01:23:01,101 --> 01:23:02,185
+I'm so sorry.
+
+1237
+01:24:06,875 --> 01:24:08,835
+Snow White...
+
+1238
+01:24:08,877 --> 01:24:11,463
+-Ah.
+-She's alive!
+
+1239
+01:24:11,504 --> 01:24:13,381
+-She's awake.
+-It's a miracle.
+
+1240
+01:24:24,392 --> 01:24:25,393
+Jonathan.
+
+1241
+01:24:38,031 --> 01:24:39,032
+What is it?
+
+1242
+01:24:39,991 --> 01:24:41,284
+Hey, what's wrong?
+
+1243
+01:24:43,369 --> 01:24:44,621
+My father...
+
+1244
+01:24:46,456 --> 01:24:48,166
+He's gone forever.
+
+1245
+01:24:51,544 --> 01:24:53,129
+Murdered by the queen.
+
+1246
+01:24:59,302 --> 01:25:01,179
+Oh, dear.
+
+1247
+01:25:02,847 --> 01:25:04,390
+What will we do now?
+
+1248
+01:25:24,410 --> 01:25:26,788
+♪ My father told me ♪
+
+1249
+01:25:26,830 --> 01:25:28,039
+♪ Long ago ♪
+
+1250
+01:25:28,665 --> 01:25:31,918
+♪ I braved a bitter
+storm of snow ♪
+
+1251
+01:25:32,877 --> 01:25:34,379
+♪ I have to know ♪
+
+1252
+01:25:35,588 --> 01:25:38,758
+♪ Does that girl
+still live in me? ♪
+
+1253
+01:25:40,885 --> 01:25:45,014
+♪ Mother, Father won't return ♪
+
+1254
+01:25:45,056 --> 01:25:48,935
+♪ They left a wish
+for me to learn ♪
+
+1255
+01:25:48,977 --> 01:25:52,355
+♪ That this kingdom is my ♪
+
+1256
+01:25:52,397 --> 01:25:53,857
+♪ Destiny ♪
+
+1257
+01:25:56,359 --> 01:25:59,654
+♪ Time to rise
+and lift my head ♪
+
+1258
+01:26:00,238 --> 01:26:03,116
+♪ Time to lead and not be led ♪
+
+1259
+01:26:03,658 --> 01:26:05,493
+♪ To be the girl ♪
+
+1260
+01:26:05,535 --> 01:26:07,620
+♪ I always said ♪
+
+1261
+01:26:07,662 --> 01:26:09,747
+♪ I'd be ♪
+
+1262
+01:26:19,007 --> 01:26:20,175
+It's time.
+
+1263
+01:26:22,468 --> 01:26:23,469
+Time?
+
+1264
+01:26:25,430 --> 01:26:28,057
+Time to restore our kingdom.
+
+1265
+01:26:32,645 --> 01:26:34,189
+It won't be easy.
+
+1266
+01:26:34,230 --> 01:26:36,441
+She'll do everything
+she can to stop us.
+
+1267
+01:26:42,655 --> 01:26:43,907
+Let her try.
+
+1268
+01:26:46,284 --> 01:26:47,952
+Did he... Was that...
+
+1269
+01:26:47,994 --> 01:26:48,995
+Dopey?
+
+1270
+01:26:49,495 --> 01:26:51,206
+We're not afraid.
+
+1271
+01:26:51,247 --> 01:26:52,790
+Dopey.
+
+1272
+01:26:52,832 --> 01:26:54,042
+Not anymore.
+
+1273
+01:26:54,834 --> 01:26:55,877
+Oh, wow.
+
+1274
+01:26:57,879 --> 01:26:59,547
+Well said, Dopey.
+
+1275
+01:27:00,256 --> 01:27:01,507
+Then neither am I.
+
+1276
+01:27:08,473 --> 01:27:09,515
+Follow me.
+
+1277
+01:27:44,926 --> 01:27:47,011
+Shh!
+
+1278
+01:28:01,401 --> 01:28:03,403
+- On to the main gate!
+- Yes, sir.
+
+1279
+01:29:22,774 --> 01:29:27,945
+♪ No more sending
+whispers to the water ♪
+
+1280
+01:29:29,572 --> 01:29:31,866
+♪ 'Cause you're everything ♪
+
+1281
+01:29:31,908 --> 01:29:37,372
+♪ You were wishing
+and waiting for ♪
+
+1282
+01:29:37,413 --> 01:29:39,957
+♪ Someone fearless ♪
+
+1283
+01:29:41,459 --> 01:29:45,463
+♪ Someone fair ♪
+
+1284
+01:29:45,505 --> 01:29:49,425
+♪ Someone brave ♪
+
+1285
+01:29:49,467 --> 01:29:56,474
+♪ Someone true ♪
+
+1286
+01:30:19,747 --> 01:30:21,249
+I believe you're looking for me.
+
+1287
+01:30:22,375 --> 01:30:24,335
+As a matter of fact,
+
+1288
+01:30:25,837 --> 01:30:28,548
+I believe it is you
+who's looking for me.
+
+1289
+01:30:29,090 --> 01:30:30,091
+Stand aside.
+
+1290
+01:30:41,519 --> 01:30:43,312
+This is my father's house.
+
+1291
+01:30:46,732 --> 01:30:47,984
+You killed him.
+
+1292
+01:30:50,319 --> 01:30:52,822
+You stole it from
+him, from all of us.
+
+1293
+01:30:57,034 --> 01:30:58,911
+And now we're here
+to take it back.
+
+1294
+01:31:04,917 --> 01:31:05,918
+Pretty...
+
+1295
+01:31:06,752 --> 01:31:07,753
+isn't she?
+
+1296
+01:31:12,049 --> 01:31:15,219
+Delicate, elegant, exquisite.
+
+1297
+01:31:23,144 --> 01:31:24,937
+You think you want a flower.
+
+1298
+01:31:26,397 --> 01:31:28,274
+But a flower wilts.
+
+1299
+01:31:29,817 --> 01:31:32,278
+A flower cannot keep you safe.
+
+1300
+01:31:33,070 --> 01:31:34,906
+Or raise an army,
+
+1301
+01:31:34,947 --> 01:31:36,616
+or lead a kingdom.
+
+1302
+01:31:37,200 --> 01:31:40,077
+A flower cannot give you
+what I can give you.
+
+1303
+01:31:45,750 --> 01:31:47,001
+Perfection.
+
+1304
+01:31:48,961 --> 01:31:50,129
+Power.
+
+1305
+01:31:52,048 --> 01:31:53,049
+Beauty.
+
+1306
+01:32:05,770 --> 01:32:07,230
+If you want the throne...
+
+1307
+01:32:13,486 --> 01:32:14,529
+take it.
+
+1308
+01:32:33,047 --> 01:32:34,215
+They're waiting.
+
+1309
+01:32:45,935 --> 01:32:47,395
+Enough of this charade.
+
+1310
+01:32:47,436 --> 01:32:49,063
+Guards, hold her.
+
+1311
+01:32:49,730 --> 01:32:50,731
+You.
+
+1312
+01:32:54,277 --> 01:32:56,362
+Let the people watch her die.
+
+1313
+01:33:27,351 --> 01:33:28,352
+Paul.
+
+1314
+01:33:34,817 --> 01:33:36,444
+You were a farmer.
+
+1315
+01:33:37,987 --> 01:33:39,363
+In the Western Vale.
+
+1316
+01:33:41,741 --> 01:33:43,075
+You have a wife.
+
+1317
+01:33:44,452 --> 01:33:45,578
+Eleanor.
+
+1318
+01:33:51,959 --> 01:33:54,879
+You had a grove of cherry trees
+and when they would blossom,
+
+1319
+01:33:54,920 --> 01:33:57,298
+you would invite the village
+to come and pick them.
+
+1320
+01:33:59,342 --> 01:34:00,593
+To share them.
+
+1321
+01:34:03,554 --> 01:34:04,639
+Matthew.
+
+1322
+01:34:05,556 --> 01:34:06,807
+You were a baker...
+
+1323
+01:34:08,225 --> 01:34:09,644
+just like your father.
+
+1324
+01:34:10,936 --> 01:34:13,564
+You never turned anyone away
+if they were hungry,
+
+1325
+01:34:13,606 --> 01:34:16,150
+even if they didn't have
+a coin left in their pocket.
+
+1326
+01:34:17,902 --> 01:34:18,861
+Arthur.
+
+1327
+01:34:18,903 --> 01:34:19,904
+Enough.
+
+1328
+01:34:19,945 --> 01:34:20,946
+William.
+
+1329
+01:34:23,240 --> 01:34:24,742
+I remember you.
+
+1330
+01:34:24,784 --> 01:34:26,077
+All of you.
+
+1331
+01:34:26,118 --> 01:34:27,411
+I said, "Enough!"
+
+1332
+01:34:27,453 --> 01:34:29,622
+There was a time where
+we lived with hope.
+
+1333
+01:34:30,706 --> 01:34:33,292
+When good things were nurtured
+and allowed to grow.
+
+1334
+01:34:36,754 --> 01:34:37,922
+I remember.
+
+1335
+01:34:41,509 --> 01:34:42,677
+Do you?
+
+1336
+01:34:51,185 --> 01:34:52,353
+I remember.
+
+1337
+01:34:58,567 --> 01:34:59,568
+I remember.
+
+1338
+01:35:01,904 --> 01:35:03,155
+And I.
+
+1339
+01:35:05,908 --> 01:35:06,909
+And I.
+
+1340
+01:35:09,870 --> 01:35:11,080
+And I.
+
+1341
+01:35:16,502 --> 01:35:17,503
+Leave.
+
+1342
+01:35:18,671 --> 01:35:20,089
+Now.
+
+1343
+01:35:20,131 --> 01:35:21,424
+And never come back.
+
+1344
+01:35:31,225 --> 01:35:33,060
+I am the rebel Quigg,
+
+1345
+01:35:33,686 --> 01:35:35,104
+master of the crossbow.
+
+1346
+01:35:50,786 --> 01:35:53,414
+No.
+
+1347
+01:35:56,584 --> 01:35:57,835
+It isn't true.
+
+1348
+01:35:58,377 --> 01:36:01,672
+Look at me. I'm
+still the fairest.
+
+1349
+01:36:01,714 --> 01:36:04,091
+Famed is thy beauty.
+
+1350
+01:36:04,133 --> 01:36:06,594
+But it goes no
+further than the skin.
+
+1351
+01:36:07,386 --> 01:36:09,305
+For Snow White,
+
+1352
+01:36:09,346 --> 01:36:12,224
+beauty comes from deep within.
+
+1353
+01:36:12,933 --> 01:36:14,435
+And so, my Queen,
+
+1354
+01:36:14,477 --> 01:36:16,437
+at last, you see.
+
+1355
+01:36:16,937 --> 01:36:19,482
+She will always be
+
+1356
+01:36:19,523 --> 01:36:22,485
+more fair than thee.
+
+1357
+01:36:22,526 --> 01:36:24,278
+You lie!
+
+1358
+01:36:34,955 --> 01:36:39,210
+Snow White
+more fair than thee.
+
+1359
+01:37:51,866 --> 01:37:53,951
+Once upon a time,
+
+1360
+01:37:53,993 --> 01:37:56,203
+there was a peaceful kingdom
+
+1361
+01:37:56,245 --> 01:37:58,831
+governed by a virtuous queen
+
+1362
+01:37:58,873 --> 01:38:01,709
+who believed
+that the true beauty of her land
+
+1363
+01:38:01,750 --> 01:38:04,753
+was not to be measured
+in gems or jewels,
+
+1364
+01:38:05,379 --> 01:38:07,631
+but in its people.
+
+1365
+01:38:07,673 --> 01:38:10,718
+The queen ruled with
+kindness and love.
+
+1366
+01:38:11,760 --> 01:38:16,140
+She was fearless,
+fair, brave and true.
+
+1367
+01:38:17,516 --> 01:38:21,270
+And her name was Snow White.
+
+1368
+01:38:21,854 --> 01:38:23,856
+♪ From
+the mountains high ♪
+
+1369
+01:38:23,898 --> 01:38:26,150
+-♪ To the deepest mines ♪
+-♪ To the deepest of mines ♪
+
+1370
+01:38:26,191 --> 01:38:29,570
+-♪ In a golden sky ♪
+-♪ Oh, how the kingdom shines ♪
+
+1371
+01:38:29,612 --> 01:38:33,949
+♪ And the strongest of roots
+Bear the sweetest of fruits ♪
+
+1372
+01:38:33,991 --> 01:38:36,035
+♪ For we reap what we sow ♪
+
+1373
+01:38:36,076 --> 01:38:37,912
+♪ By the lessons we know ♪
+
+1374
+01:38:37,953 --> 01:38:41,582
+♪ And the bounty will flow ♪
+
+1375
+01:38:41,624 --> 01:38:43,417
+♪ Where the good things grow ♪
+
+1376
+01:38:43,459 --> 01:38:47,379
+♪ From the mountains high ♪
+
+1377
+01:38:47,421 --> 01:38:50,257
+♪ In a golden sky ♪
+
+1378
+01:38:50,299 --> 01:38:53,302
+♪ Where the good things grow ♪
+
+1379
+01:39:05,898 --> 01:39:08,150
+♪ Where the good things grow ♪
